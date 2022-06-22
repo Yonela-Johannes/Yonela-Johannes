@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yonela</h1>
-<h3 align="center">A passionate frontend developer from South Africa</h3>
+<h1 align="center">Hey, you good 👋? I'm Yonela</h1>
+<h3 align="center">A fascinated frontend developer from South Africa</h3>
 
 [![wakatime](https://wakatime.com/badge/user/144c0c10-7b64-415e-899b-d59f7c2cd2b7.svg)](https://wakatime.com/@144c0c10-7b64-415e-899b-d59f7c2cd2b7)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yonela-johannes&label=Profile%20views&color=0e75b6&style=flat" alt="yonela-johannes" /> </p>
