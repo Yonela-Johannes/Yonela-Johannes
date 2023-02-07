@@ -14,12 +14,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yonela-johannes&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
- <p>
-   <a href="https://github.com/yonela-johannes">
-      
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonela-johannes&show_icons=true&theme=dark&layout=compact&exclude_repo=nba-stats-codeigniter&hide=css,html" alt="yonela-johannes" />
-  </a>
-</p>
 
 <h3> Stuff I worked on last week </h3>
  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px>
