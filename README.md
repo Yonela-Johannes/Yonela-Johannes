@@ -1,7 +1,7 @@
 <h3>Hey, I'm Yonela</h3>
 
 [![wakatime](https://wakatime.com/badge/user/144c0c10-7b64-415e-899b-d59f7c2cd2b7.svg)](https://wakatime.com/@144c0c10-7b64-415e-899b-d59f7c2cd2b7)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yonela-johannes&label=Profile%20views&color=0e75b6&style=flat" alt="yonela-johannes" />
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Yonela-Johannes&label=Profile%20views&color=0e75b6&style=flat" alt="Yonela-Johannes" /> 
   <a href="https://www.codewars.com/users/Yonela-Johannes">
     <img src="https://www.codewars.com/users/Yonela-Johannes/badges/small" alt="codewars" />
