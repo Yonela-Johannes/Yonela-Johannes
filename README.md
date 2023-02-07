@@ -16,8 +16,7 @@
 
  <p>
    <a href="https://github.com/yonela-johannes">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yonela-johannes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    
+      
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonela-johannes&show_icons=true&theme=dark&layout=compact&exclude_repo=nba-stats-codeigniter&hide=css,html" alt="yonela-johannes" />
   </a>
 </p>
