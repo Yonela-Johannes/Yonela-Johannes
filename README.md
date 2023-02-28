@@ -14,7 +14,7 @@
 
 
 <h3>Languages, libraries & frameworks I use.</h3>
-<figure><embed src="https://wakatime.com/share/@Yongs/49f6306b-bc36-4f55-ab0a-10d02aa32c68.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Yongs/0b7985ff-de99-4d65-93bc-09c1e9400876.png" /></a>
 
 <h3>Where to find me</h3>
 <p>
