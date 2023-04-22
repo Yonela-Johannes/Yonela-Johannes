@@ -25,3 +25,4 @@
 <a href="https://github.com/yonela-johannes" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/yonela-johannes/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+<a href="[https://github.com/yonela-johannes](https://yonela-johannes.github.io/yonelajohannes)" target="_blank"><img alt="Github" src="https://yonela-johannes.github.io/yonelajohannes/static/media/AlphaBlack.6e28a54450ba67f51e93.png" width="20" height="20" /></a>
