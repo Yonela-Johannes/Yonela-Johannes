@@ -1,4 +1,4 @@
-<h3>Hey, I'm Yongs || Yones</h3>
+<h3>Hey, I'm Yonela</h3>
 <h3>
   🌍 My Portfolio
   <a href="https://yonela-johannes.github.io/yonelajohannes/" target="_blank" >Yonela Johannes</a>
