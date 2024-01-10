@@ -2,7 +2,7 @@
 
 ### I am a Fullstack Developer
 
-### You can check out my portfolio [here](https://yonela-johannes.github.io/yonelajohannes)
+### You can check out my portfolio [here](https://portfolio-beta-red-17.vercel.app/)
 
 ### 💻 Tech I use
 
@@ -10,6 +10,10 @@
 
 ![Project Image](public/assets/portfolio.png)
 [![wakatime](https://wakatime.com/badge/user/144c0c10-7b64-415e-899b-d59f7c2cd2b7.svg)](https://wakatime.com/@144c0c10-7b64-415e-899b-d59f7c2cd2b7)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yonela-johannes)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonela-johannes)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Where to find me
 <p>
