@@ -1,7 +1,10 @@
 ## Hey, I'm Yonela
 
 ### I am a Fullstack Developer
-
+- 👩🏾‍🎓 I’m currently learning: **Azure**
+- 👍 I really like the : **React** library
+- 💬 Ask me about: **Javascript** and **C#**
+- ⚡ Fun fact: **I just want to learn!**
 ### You can check out my portfolio [here](https://portfolio-beta-red-17.vercel.app/)
 
 ### 💻 Tech I use
@@ -11,12 +14,17 @@
 ![Project Image](public/assets/portfolio.png)
 [![wakatime](https://wakatime.com/badge/user/144c0c10-7b64-415e-899b-d59f7c2cd2b7.svg)](https://wakatime.com/@144c0c10-7b64-415e-899b-d59f7c2cd2b7)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yonela-johannes)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yonela-johannes&label=Profile%20views&color=0e75b6&style=flat" alt="yonela-johannes" /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonela-johannes)](https://github.com/anuraghazra/github-readme-stats)
+ <p>
+   <a href="https://github.com/yonela-johannes">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yonela-johannes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonela-johannes&show_icons=true&theme=dark&layout=compact&exclude_repo=nba-stats-codeigniter&hide=css,html" alt="yonela-johannes" />
+  </a>
+</p>
 
-#### Where to find me
+
+#### You can reach me:
 <p>
-<a href="https://github.com/yonela-johannes" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/yonela-johannes/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
