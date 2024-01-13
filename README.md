@@ -5,6 +5,8 @@
 - 👍 I really like the : **React** library
 - 💬 Ask me about: **Javascript** and **C#**
 - ⚡ Fun fact: **I just want to learn!**
+
+ Thanks for visiting my GitHub page! You'll discover my projects, ideas, and full-stack development journey here. <br /> I enjoy exploring new technologies, unleashing creativity, and devising innovative solutions to challenges. <br/>Feel free to browse my projects, where you'll see my continuous efforts to try new things and enhance my skills.
 ### You can check out my portfolio [here](https://portfolio-beta-red-17.vercel.app/)
 
 ### 💻 Tech I use
