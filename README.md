@@ -11,6 +11,22 @@ I am a software developer with a passion for <b>#code</b>, <b>#secure-coding</b>
 [![wakatime](https://wakatime.com/badge/user/144c0c10-7b64-415e-899b-d59f7c2cd2b7.svg)](https://wakatime.com/@144c0c10-7b64-415e-899b-d59f7c2cd2b7)
   <img src="https://komarev.com/ghpvc/?username=yonela-johannes&label=Profile%20views&color=0e75b6&style=flat" alt="yonela-johannes" />
 
+
+ Thanks for visiting my GitHub page!
+
+ You can check out my portfolio [here](https://portfolio-beta-red-17.vercel.app/)
+
+
+### 💻 Languages and Tools
+
+
+![Javascript Badge](https://img.shields.io/badge/-Javascript-3776AB?style=flat&logo=Sublime=white) ![ Nodejs](https://img.shields.io/badge/-Nodejs-3776AB?style=flat&logo=Vscode&logoColor=white) ![Typescript Badge](https://img.shields.io/badge/-Typescript-3776AB?style=flat&logo=Vscode&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Sublime=white) ![Java Badge](https://img.shields.io/badge/-Java-3776AB?style=flat&logo=Sublime=white)
+[![Frontend Badge](https://img.shields.io/badge/-Frontend%20-01D277?style=flat&logoColor=white)][![Backend Badge](https://img.shields.io/badge/-Backend%20-01D277?style=flat&logoColor=white)](https://github.com/bashiru98/bashiru98)  ![Software Development Badge](https://img.shields.io/badge/FullStack%20Development-FF6600?style=flat&logoColor=white)
+
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yonela-johannes&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="GitHub Streak" />
+  </a>
+</div>
+
 ## Let's connect? 🤝
 
   <a href="https://github.com/Yonela-Johannes">
@@ -25,22 +41,3 @@ I am a software developer with a passion for <b>#code</b>, <b>#secure-coding</b>
   <a href="https://www.facebook.com/johannesyonela">
     <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/johannesyonela/" alt="Facebook" />
   </a>
-
- Thanks for visiting my GitHub page!
-
- You can check out my portfolio [here](https://portfolio-beta-red-17.vercel.app/)
-
-
-### 💻 Languages and Tools
-
-Property | Tech
---- | ---
-**Language**  | ![Javascript Badge](https://img.shields.io/badge/-Javascript-3776AB?style=flat&logo=Sublime=white) ![ Nodejs](https://img.shields.io/badge/-Nodejs-3776AB?style=flat&logo=Vscode&logoColor=white) ![Typescript Badge](https://img.shields.io/badge/-Typescript-3776AB?style=flat&logo=Vscode&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Sublime=white) ![Java Badge](https://img.shields.io/badge/-Java-3776AB?style=flat&logo=Sublime=white)
-**Engineering**  | [![Frontend Badge](https://img.shields.io/badge/-Frontend%20-01D277?style=flat&logoColor=white)][![Backend Badge](https://img.shields.io/badge/-Backend%20-01D277?style=flat&logoColor=white)](https://github.com/bashiru98/bashiru98)  ![Software Development Badge](https://img.shields.io/badge/FullStack%20Development-FF6600?style=flat&logoColor=white)
-
-<div style="flex>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yonela-johannes&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="GitHub Streak" />
-  </a>
-  <img  alt="yonela-johannes's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/yonela-johannes?cardType=level-alternate&theme=bear&preferLogin=false" />
-</div>
-</div>
