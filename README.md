@@ -1,50 +1,46 @@
-## Hey, I'm Yonela
 
-### I am a Fullstack Developer
-- 👩🏾‍🎓 I’m currently learning: **Azure**
-- 👍 I really like the : **React** library
-- 💬 Ask me about: **Javascript** and **C#**
-- ⚡ Fun fact: **I just want to learn!**
+<div align="left">
 
- Thanks for visiting my GitHub page! You'll discover my projects, ideas, and full-stack development journey here. <br /> I enjoy exploring new technologies, unleashing creativity, and devising innovative solutions to challenges. <br/>Feel free to browse my projects, where you'll see my continuous efforts to try new things and enhance my skills.
-### You can check out my portfolio [here](https://portfolio-beta-red-17.vercel.app/)
+## Hello, I'm Yonela
 
-![](/public/assets/header_.png)
+Nice to meet you, my name is Yonela Johannes and I believe in well done crafted software.
+<br><br>
+I am a software developer with a passion for <b>#code</b>, <b>#secure-coding</b>, and  <b>#mentoring/coaching</b>. In recent years, I have been coding, learning, and mentoring/assisting peers. As a software engineer, the more I gain knowledge, the more I understand there is so much more to learn.
+</p>
 
-### 💻 Tech I use
+[![wakatime](https://wakatime.com/badge/user/144c0c10-7b64-415e-899b-d59f7c2cd2b7.svg)](https://wakatime.com/@144c0c10-7b64-415e-899b-d59f7c2cd2b7)
+  <img src="https://komarev.com/ghpvc/?username=yonela-johannes&label=Profile%20views&color=0e75b6&style=flat" alt="yonela-johannes" />
+
+## Let's connect? 🤝
+
+  <a href="https://github.com/Yonela-Johannes">
+    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/yonela-johannes" alt="GitHub badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/yonela-johannes">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yonela-johnane" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/johannesyonela">
+    <img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/johannesyonela/" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/johannesyonela">
+    <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/johannesyonela/" alt="Facebook" />
+  </a>
+
+ Thanks for visiting my GitHub page!
+
+ You can check out my portfolio [here](https://portfolio-beta-red-17.vercel.app/)
+
+
+### 💻 Languages and Tools
 
 Property | Tech
 --- | ---
-**Language**  | ![Javascript Badge](https://img.shields.io/badge/-Javascript-3776AB?style=flat&logo=Sublime=white) ![ Nodejs](https://img.shields.io/badge/-Nodejs-3776AB?style=flat&logo=Vscode&logoColor=white) ![Typescript Badge](https://img.shields.io/badge/-Typescript-3776AB?style=flat&logo=Vscode&logoColor=white)
-**Engineering**  | [![Backend Badge](https://img.shields.io/badge/-Backend%20-01D277?style=flat&logoColor=white)](https://github.com/bashiru98/bashiru98)  ![Software Development Badge](https://img.shields.io/badge/Fullstack%20Development-FF6600?style=flat&logoColor=white)
+**Language**  | ![Javascript Badge](https://img.shields.io/badge/-Javascript-3776AB?style=flat&logo=Sublime=white) ![ Nodejs](https://img.shields.io/badge/-Nodejs-3776AB?style=flat&logo=Vscode&logoColor=white) ![Typescript Badge](https://img.shields.io/badge/-Typescript-3776AB?style=flat&logo=Vscode&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Sublime=white) ![Java Badge](https://img.shields.io/badge/-Java-3776AB?style=flat&logo=Sublime=white)
+**Engineering**  | [![Frontend Badge](https://img.shields.io/badge/-Frontend%20-01D277?style=flat&logoColor=white)][![Backend Badge](https://img.shields.io/badge/-Backend%20-01D277?style=flat&logoColor=white)](https://github.com/bashiru98/bashiru98)  ![Software Development Badge](https://img.shields.io/badge/FullStack%20Development-FF6600?style=flat&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-[![wakatime](https://wakatime.com/badge/user/144c0c10-7b64-415e-899b-d59f7c2cd2b7.svg)](https://wakatime.com/@144c0c10-7b64-415e-899b-d59f7c2cd2b7)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yonela-johannes&label=Profile%20views&color=0e75b6&style=flat" alt="yonela-johannes" /> </p>
-
- <p>
-   <a href="https://github.com/yonela-johannes">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yonela-johannes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonela-johannes&show_icons=true&theme=dark&layout=compact&exclude_repo=nba-stats-codeigniter&hide=css,html" alt="yonela-johannes" />
+<div style="flex>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yonela-johannes&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="GitHub Streak" />
   </a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yonela-johannes"></i>
-</p>
-
-
-#### 📫 How to Reach me:
-<p>
-<a href="https://www.linkedin.com/in/yonela-johannes/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</a>
-</p>
-
-
-Energetic and self-motivated professional, confident and creative person with proven skills in setting and achieving goals while working both independently and as a team player. Efficient in meeting deadlines with an ability to prioritize and accomplish multiple tasks without compromising on efficiency.
-
-## I'm a Fullstack Developer
-
-- 🌱 I’m open to exploring and learning new technologies
-- 🥅 Helping other developers
+  <img  alt="yonela-johannes's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/yonela-johannes?cardType=level-alternate&theme=bear&preferLogin=false" />
+</div>
+</div>
