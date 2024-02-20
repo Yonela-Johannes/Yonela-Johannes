@@ -6,7 +6,9 @@
 Nice to meet you, my name is Yonela Johannes and I believe in well done crafted software.
 <br><br>
 I am a software developer with a passion for <b>#code</b>, <b>#secure-coding</b>, and  <b>#mentoring/coaching</b>. In recent years, I have been coding, learning, and mentoring/assisting peers. As a software engineer, the more I gain knowledge, the more I understand there is so much more to learn.
-</p>
+<br><br>
+I am currently programming games, softwares, and websites in #Java, #Python and C# to dive deeper into Object Orientated Programming.
+
 
 [![wakatime](https://wakatime.com/badge/user/144c0c10-7b64-415e-899b-d59f7c2cd2b7.svg)](https://wakatime.com/@144c0c10-7b64-415e-899b-d59f7c2cd2b7)
   <img src="https://komarev.com/ghpvc/?username=yonela-johannes&label=Profile%20views&color=0e75b6&style=flat" alt="yonela-johannes" />
@@ -17,10 +19,12 @@ I am a software developer with a passion for <b>#code</b>, <b>#secure-coding</b>
  You can check out my portfolio [here](https://portfolio-beta-red-17.vercel.app/)
 
 
-### 💻 Languages and Tools
+### 💻 Languages, Libraries and Frameworks
 
 
-![Javascript Badge](https://img.shields.io/badge/-Javascript-3776AB?style=flat&logo=Sublime=white) ![ Nodejs](https://img.shields.io/badge/-Nodejs-3776AB?style=flat&logo=Vscode&logoColor=white) ![Typescript Badge](https://img.shields.io/badge/-Typescript-3776AB?style=flat&logo=Vscode&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Sublime=white) ![Java Badge](https://img.shields.io/badge/-Java-3776AB?style=flat&logo=Sublime=white)
+![Javascript Badge](https://img.shields.io/badge/-Javascript-3776AB?style=flat&logo=Sublime=white) ![React Badge](https://img.shields.io/badge/-ReactJs-3776AB?style=flat&logo=Sublime=white) ![ Nodejs](https://img.shields.io/badge/-Nodejs-3776AB?style=flat&logo=Vscode&logoColor=white) ![Typescript Badge](https://img.shields.io/badge/-Typescript-3776AB?style=flat&logo=Vscode&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Sublime=white) ![Java Badge](https://img.shields.io/badge/-Java-3776AB?style=flat&logo=Sublime=white)
+![C# Badge](https://img.shields.io/badge/-Csharp-3776AB?style=flat&logo=Sublime=white)
+<br />
 [![Frontend Badge](https://img.shields.io/badge/-Frontend%20-01D277?style=flat&logoColor=white)][![Backend Badge](https://img.shields.io/badge/-Backend%20-01D277?style=flat&logoColor=white)](https://github.com/bashiru98/bashiru98)  ![Software Development Badge](https://img.shields.io/badge/FullStack%20Development-FF6600?style=flat&logoColor=white)
 
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yonela-johannes&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="GitHub Streak" />
