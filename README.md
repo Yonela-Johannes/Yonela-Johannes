@@ -9,7 +9,7 @@ I am a software developer with a passion for <b>#code</b>, <b>#secure-coding</b>
 <br><br>
    In recent years, I have been coding, learning, and mentoring/assisting peers. As a software engineer, the more I gain knowledge, the more I understand there is so much more to learn.
 
-      I am currently programming games and websites in #Java, #Python, and now-and-then learning C# to dive deeper into Object Orientated Programming.
+  I am currently programming games and websites in #Java, #Python, and now-and-then learning C# to dive deeper into Object Orientated Programming.
 
 
 [![wakatime](https://wakatime.com/badge/user/144c0c10-7b64-415e-899b-d59f7c2cd2b7.svg)](https://wakatime.com/@144c0c10-7b64-415e-899b-d59f7c2cd2b7)
