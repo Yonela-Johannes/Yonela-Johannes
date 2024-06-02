@@ -104,6 +104,11 @@ I am a software developer with a passion for <b>#code</b>, <b>#secure-coding</b>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width:100%;">
 
+ <p>
+   <a href="https://github.com/yonela-johannes">
+    <img height="200em" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonela-johannes&show_icons=true&theme=dark&layout=compact&exclude_repo=nba-stats-codeigniter&hide=css,html,handlebars,scss" alt="yonela-johannes" />
+  </a>
+</p>
 ## Let's connect? 🤝
 
   <a href="https://github.com/Yonela-Johannes">
