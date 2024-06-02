@@ -109,6 +109,7 @@ I am a software developer with a passion for <b>#code</b>, <b>#secure-coding</b>
     <img height="200em" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonela-johannes&show_icons=true&theme=dark&layout=compact&exclude_repo=nba-stats-codeigniter&hide=css,html,handlebars,scss" alt="yonela-johannes" />
   </a>
 </p>
+
 ## Let's connect? 🤝
 
   <a href="https://github.com/Yonela-Johannes">
