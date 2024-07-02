@@ -25,9 +25,9 @@ I am a software developer with a passion for <b>#code</b>, <b>#secure-coding</b>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/yonela-johannes"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/4055" alt="Discord" title="Dapp Mentors Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/4055" alt="Discord" title="Yonela Johannes"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/yonelajohannes"><img width="32px" alt="Dev.to" title="Daltonic" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://dev.to/yonelajohannes"><img width="32px" alt="Dev.to" title="Yonela" src="https://i.imgur.com/mVm29vK.png"></a>
 </p>
 
 ## 💻 My Favorite
