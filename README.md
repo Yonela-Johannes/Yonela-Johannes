@@ -18,6 +18,18 @@ I am a software developer with a passion for <b>#code</b>, <b>#secure-coding</b>
  You can check out my portfolio [here](https://portfolio-beta-red-17.vercel.app/)
 </div>
 
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/@yonelajohannes"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/yonela-johannes"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/4055" alt="Discord" title="Dapp Mentors Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/yonelajohannes"><img width="32px" alt="Dev.to" title="Daltonic" src="https://i.imgur.com/mVm29vK.png"></a>
+</p>
+
 ## 💻 My Favorite
 
 <div style="display: flex; align-items: flex-start; align: center">
@@ -36,10 +48,6 @@ I am a software developer with a passion for <b>#code</b>, <b>#secure-coding</b>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      <br>Java
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
