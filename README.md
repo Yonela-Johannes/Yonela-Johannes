@@ -4,10 +4,13 @@
 ## Hello, I'm Yonela
 
 Hello, my name is Yonela Johannes and I believe in well done crafted software.
-<br><br>
-I am a software developer with a passion for <b>#code</b>, <b>#secure-coding</b>, and  <b>#mentoring/coaching</b>. In recent years, I have been coding, learning, and mentoring/assisting peers. As a software engineer, the more I gain knowledge, the more I understand there is so much more to learn.
-<br><br>
-   In recent years, I have been coding, learning, and mentoring/assisting peers. As a software engineer, the more I gain knowledge, the more I understand there is so much more to learn.
+<br></br>
+I am a software developer with a passion for <b>#code</b>, <b>#secure-coding</b>, and aspire to <b>#mentor/coach</b>. I have been coding, and learning, and, the more practice, the more I gain knowledge and the more I understand there is so much more to learn.
+<br></br>
+🚀 I have over 3 years of experience in web development, working with technologies like JavaScript, Python, React, Node.js, Flask, PostgreSQL, and more.
+<br></br>
+📈 Always eager to learn and adopt new technologies, I stay updated with the latest trends in the tech world.
+<br></br>
 
 [![wakatime](https://wakatime.com/badge/user/144c0c10-7b64-415e-899b-d59f7c2cd2b7.svg)](https://wakatime.com/@144c0c10-7b64-415e-899b-d59f7c2cd2b7)
 <img src="https://komarev.com/ghpvc/?username=yonela-johannes&label=Profile%20views&color=0e75b6&style=flat" alt="yonela-johannes" />
