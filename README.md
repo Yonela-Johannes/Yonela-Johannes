@@ -3,15 +3,15 @@
 
 ## Hello, I'm Yonela
 
-Hello , my name is Yonela Johannes and I believe in well done crafted software.
+Hello, my name is Yonela Johannes and I believe in well done crafted software.
 <br><br>
 I am a software developer with a passion for <b>#code</b>, <b>#secure-coding</b>, and  <b>#mentoring/coaching</b>. In recent years, I have been coding, learning, and mentoring/assisting peers. As a software engineer, the more I gain knowledge, the more I understand there is so much more to learn.
 <br><br>
    In recent years, I have been coding, learning, and mentoring/assisting peers. As a software engineer, the more I gain knowledge, the more I understand there is so much more to learn.
 
 [![wakatime](https://wakatime.com/badge/user/144c0c10-7b64-415e-899b-d59f7c2cd2b7.svg)](https://wakatime.com/@144c0c10-7b64-415e-899b-d59f7c2cd2b7)
-  <img src="https://komarev.com/ghpvc/?username=yonela-johannes&label=Profile%20views&color=0e75b6&style=flat" alt="yonela-johannes" />
-
+<img src="https://komarev.com/ghpvc/?username=yonela-johannes&label=Profile%20views&color=0e75b6&style=flat" alt="yonela-johannes" />
+[![committers.top badge](https://user-badge.committers.top/south_africa/Yonela-Johannes.svg)](https://user-badge.committers.top/sout_africa/Yonela_Johannes)
 
  Thanks for visiting my GitHub page!
 
