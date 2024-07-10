@@ -56,7 +56,6 @@ I am a software developer with a passion for <b>#code</b>, <b>#secure-coding</b>
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
-  </tr>
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
@@ -91,6 +90,14 @@ I am a software developer with a passion for <b>#code</b>, <b>#secure-coding</b>
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby" />
+      <br>Ruby
+    </td>
  </tr>
 </table>
 <br><br>
@@ -105,13 +112,11 @@ I am a software developer with a passion for <b>#code</b>, <b>#secure-coding</b>
 
 </p>
 
-<!-- activity graph heroku-app start -->
 <p align="center">
     <a href="https://wakatime.com/@yongs">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=yonela-johannes&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="98%" alt="activity graph">
     </a>
 </p>
-<!-- activity graph heroku-app end -->
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width:100%;">
 
