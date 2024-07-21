@@ -118,19 +118,24 @@ I am a software developer with a passion for <b>#code</b>, <b>#secure-coding</b>
     </a>
 </p>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width:100%;">
+<img style="max-width:100%;" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" >
 
 ## 📊 Stats
 
+<div align="center">
+ <img height="180em" style="max-width:100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonela-johannes&theme=darcula" alt="yonela-johannes">
+</div>
  <div>
    <a href="https://github.com/yonela-johannes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonela-johannes&show_icons=true&theme=dark&layout=compact&exclude_repo=nba-stats-codeigniter&hide=css,html,handlebars,scss" alt="yonela-johannes" />
-    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yonela-johannes&theme=dark&layout=compact" alt="yonela-johannes"  />
-    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yonela-johannes&theme=dark&layout=compact" alt="yonela-johannes" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonela-johannes&show_icons=true&theme=dracula&layout=compact&hide_border=true&exclude_repo=nba-stats-codeigniter&hide=css,html,handlebars,scss" alt="yonela-johannes" />
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yonela-johannes&theme=dracula" alt="yonela-johannes"  />
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yonela-johannes&theme=dracula" alt="yonela-johannes" />
   </a>
   <div>
 
-## Let's connect? 🤝
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/wakatime?username=yongs&theme=dracula&layout=compact&hide_border=true&" alt="yonela-johannes" />
+
+## Let's connect. 🤝
 
   <a href="https://github.com/Yonela-Johannes">
     <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/yonela-johannes" alt="GitHub badge" />
