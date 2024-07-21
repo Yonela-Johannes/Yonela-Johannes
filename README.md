@@ -125,7 +125,7 @@ I am a software developer with a passion for <b>#code</b>, <b>#secure-coding</b>
 <div align="center">
  <img height="220em" style="max-width:100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonela-johannes&theme=darcula" alt="yonela-johannes">
 </div>
- <div>
+ <div align="center">
    <a href="https://github.com/yonela-johannes">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonela-johannes&show_icons=true&theme=dracula&layout=compact&hide_border=true&exclude_repo=nba-stats-codeigniter&hide=css,html,handlebars,scss" alt="yonela-johannes" />
     <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yonela-johannes&theme=dracula" alt="yonela-johannes"  />
