@@ -123,7 +123,7 @@ I am a software developer with a passion for <b>#code</b>, <b>#secure-coding</b>
 ## 📊 Stats
 
 <div align="center">
- <img height="180em" style="max-width:100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonela-johannes&theme=darcula" alt="yonela-johannes">
+ <img height="220em" style="max-width:100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonela-johannes&theme=darcula" alt="yonela-johannes">
 </div>
  <div>
    <a href="https://github.com/yonela-johannes">
@@ -133,7 +133,9 @@ I am a software developer with a passion for <b>#code</b>, <b>#secure-coding</b>
   </a>
   <div>
 
+<div align="center">
   <img height="220em" src="https://github-readme-stats.vercel.app/api/wakatime?username=yongs&theme=dracula&layout=compact&hide_border=true&" alt="yonela-johannes" />
+</div>
 
 ## Let's connect. 🤝
 
