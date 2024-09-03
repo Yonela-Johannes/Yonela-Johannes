@@ -108,24 +108,15 @@
     </a>
 </p>
 
-<img style="max-width:100%;" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" >
-
 ## 📊 Stats
 
-<div align="center">
- <img height="220em" style="max-width:100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonela-johannes&theme=darcula" alt="yonela-johannes">
-</div>
  <div align="center">
    <a href="https://github.com/yonela-johannes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonela-johannes&show_icons=true&theme=dracula&layout=compact&hide_border=true&exclude_repo=nba-stats-codeigniter&hide=css,html,handlebars,scss" alt="yonela-johannes" />
-    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yonela-johannes&theme=dracula" alt="yonela-johannes"  />
-    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yonela-johannes&theme=dracula" alt="yonela-johannes" />
+    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonela-johannes&show_icons=true&theme=dracula&layout=compact&hide_border=true&exclude_repo=nba-stats-codeigniter&hide=css,html,handlebars,scss" alt="yonela-johannes" />
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/wakatime?username=yongs&theme=dracula&layout=compact&hide_border=true&" alt="yonela-johannes" />
+    
   </a>
   <div>
-
-<div align="center">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/wakatime?username=yongs&theme=dracula&layout=compact&hide_border=true&" alt="yonela-johannes" />
-</div>
 
 ## Let's connect. 🤝
 
