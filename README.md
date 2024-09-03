@@ -3,39 +3,23 @@
 
 ## Hello, I'm Yonela
 
-👯 I’m looking to collaborate on open-source projects or interesting ideas.
-💬 Ask me about anything! I'm happy to help.
+- 👯 I’m looking to collaborate on open-source projects or interesting ideas.
+- 💬 Ask me about anything! I'm happy to help.
 
-<br></br>
-I am a software developer with a passion for <b>#code</b>, <b>#secure-coding</b>, and aspire to <b>#mentor/coach</b>. I have been coding, and learning, and, the more practice, the more I gain knowledge and the more I understand there is so much more to learn.
-<br></br>
-🚀 I have over 3 years of experience in web development, working with technologies like JavaScript, Python, React, Node.js, Flask, PostgreSQL, and more.
-<br></br>
-📈 Always eager to learn and adopt new technologies, I stay updated with the latest trends in the tech world.
+- I am a software developer with a passion for <b>#code</b> and aspire to <b>#mentor/coach</b>
+
+- 📈 Always eager to learn and adopt new technologies, I stay updated with the latest trends in the tech world.
 <br></br>
 
 [![wakatime](https://wakatime.com/badge/user/144c0c10-7b64-415e-899b-d59f7c2cd2b7.svg)](https://wakatime.com/@144c0c10-7b64-415e-899b-d59f7c2cd2b7)
 <img src="https://komarev.com/ghpvc/?username=yonela-johannes&label=Profile%20views&color=0e75b6&style=flat" alt="yonela-johannes" />
 [![committers.top badge](https://user-badge.committers.top/south_africa/Yonela-Johannes.svg)](https://user-badge.committers.top/sout_africa/Yonela_Johannes)
 
- Thanks for visiting my GitHub page!
-
- You can check out my portfolio [here](https://portfolio-beta-red-17.vercel.app/)
+ - You can check out my portfolio [Yonela Johannes](https://yonela-johannes.vercel.app/)
+ - You can follow my journey [CodingWithYonela](https://codingwithyonela.vercel.app/)
 </div>
 
-
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.youtube.com/@yonelajohannes"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/yonela-johannes"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/4055" alt="Discord" title="Yonela Johannes"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/yonelajohannes"><img width="32px" alt="Dev.to" title="Yonela" src="https://i.imgur.com/mVm29vK.png"></a>
-</p>
-
-## 💻 My Favorite
+## 💻 My Stack
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -53,6 +37,10 @@ I am a software developer with a passion for <b>#code</b>, <b>#secure-coding</b>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>NextJs
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
