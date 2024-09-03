@@ -3,7 +3,9 @@
 
 ## Hello, I'm Yonela
 
-Hello, my name is Yonela Johannes and I believe in well done crafted software.
+👯 I’m looking to collaborate on open-source projects or interesting ideas.
+💬 Ask me about anything! I'm happy to help.
+
 <br></br>
 I am a software developer with a passion for <b>#code</b>, <b>#secure-coding</b>, and aspire to <b>#mentor/coach</b>. I have been coding, and learning, and, the more practice, the more I gain knowledge and the more I understand there is so much more to learn.
 <br></br>
