@@ -1,14 +1,13 @@
 
 <div align="left">
 
-## Hello, I'm Yonela
+## Hello, I'm Yonela👋
 
-- 👯 I’m looking to collaborate on open-source projects or interesting ideas.
-- 💬 Ask me about anything! I'm happy to help.
-
-- I am a software developer with a passion for <b>#code</b> and aspire to <b>#mentor/coach</b>
-
-- 📈 Always eager to learn and adopt new technologies, I stay updated with the latest trends in the tech world.
+- 👯 I’m open to collaborating on open-source projects and innovative ideas.
+- 💬 Feel free to reach out—I’m always happy to help and discuss anything tech-related.
+- 🧑‍💻 I’m a passionate software developer with a strong focus on <b>coding</b> and mentoring/coaching others.
+- 🚀 I’m constantly learning and staying updated with the latest trends in the tech world.
+- 📈 I’m active on LinkedIn and share stories on CodingWithYonela every Wednesday
 <br></br>
 
 [![wakatime](https://wakatime.com/badge/user/144c0c10-7b64-415e-899b-d59f7c2cd2b7.svg)](https://wakatime.com/@144c0c10-7b64-415e-899b-d59f7c2cd2b7)
