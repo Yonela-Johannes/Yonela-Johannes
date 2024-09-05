@@ -12,7 +12,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/144c0c10-7b64-415e-899b-d59f7c2cd2b7.svg)](https://wakatime.com/@144c0c10-7b64-415e-899b-d59f7c2cd2b7)
 <img src="https://komarev.com/ghpvc/?username=yonela-johannes&label=Profile%20views&color=0e75b6&style=flat" alt="yonela-johannes" />
-[![committers.top badge](https://user-badge.committers.top/south_africa/Yonela-Johannes.svg)](https://user-badge.committers.top/sout_africa/Yonela_Johannes)
+[![committers.top badge](https://user-badge.committers.top/south_africa/Yonela-Johannes.svg)](https://user-badge.committers.top/south_africa/Yonela_Johannes)
 
  - You can check out my portfolio [Yonela Johannes](https://yonela-johannes.vercel.app/)
  - You can follow my journey [CodingWithYonela](https://codingwithyonela.vercel.app/)
