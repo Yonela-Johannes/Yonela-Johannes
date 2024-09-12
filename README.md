@@ -1,14 +1,30 @@
 
 <div align="left">
 
-## Hello, I'm Yonela👋
+# About me
+
+👋 Hi, I'm Yonela
+
+💻 Full Stack Web Developer | 🚀 Founder | 🎓 Personal Programming Mentor
+
+With 4 years of full stack development experience, 🧑‍💻 I’m a passionate software developer focusing on <b>coding</b> and mentoring/coaching others.
 
 - 👯 I’m open to collaborating on open-source projects and innovative ideas.
 - 💬 Feel free to reach out—I’m always happy to help and discuss anything tech-related.
-- 🧑‍💻 I’m a passionate software developer with a strong focus on <b>coding</b> and mentoring/coaching others.
 - 🚀 I’m constantly learning and staying updated with the latest trends in the tech world.
-- 📈 I’m active on LinkedIn and share stories on CodingWithYonela every Wednesday
+- 📈 I’m active on CodingWithYonela and I share stories every Wednesday
+
+🛠️ Tech Stack
+
+React | Node.js | Flask
+MongoDB | PostgreSQL
+Tailwind CSS | Python | Typescript
 <br></br>
+Seeking opportunities in web application and mobile app development
+
+Let's connect and build something amazing together! 🚀
+
+<br />
 
 [![wakatime](https://wakatime.com/badge/user/144c0c10-7b64-415e-899b-d59f7c2cd2b7.svg)](https://wakatime.com/@144c0c10-7b64-415e-899b-d59f7c2cd2b7)
 <img src="https://komarev.com/ghpvc/?username=yonela-johannes&label=Profile%20views&color=0e75b6&style=flat" alt="yonela-johannes" />
