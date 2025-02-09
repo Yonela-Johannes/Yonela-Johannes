@@ -1,7 +1,14 @@
-
 <div align="left">
 
-# About me
+<p align="center"><a target="_blank"><img src="https://komarev.com/ghpvc/?username=yonela-johannes&color=0d1118&style=for-the-badge&label=PROFILE+VIEWS" alt="My Profile Views Counter" height="28" /></a></p>
+
+<p align="center">
+  <a href="https://github.com/yonela-johannes" title="My Followers On Github"><img alt="Github Follower's Badgge" src="https://img.shields.io/github/followers/yonela-johannes?style=for-the-badge&logo=github&logoColor=FFF&labelColor=0d1118&color=272932"></a>
+  <a href="https://github.com/yonela-johannes?tab=stars" title="My Stars On Github"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/yonela-johannes?affiliations=OWNER&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1NzYgNTEyIj48IS0tIUZvbnQgQXdlc29tZSBGcmVlIDYuNy4yIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNlbnNlL2ZyZWUgQ29weXJpZ2h0IDIwMjUgRm9udGljb25zLCBJbmMuLS0%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTMxNi45IDE4QzMxMS42IDcgMzAwLjQgMCAyODguMSAwcy0yMy40IDctMjguOCAxOEwxOTUgMTUwLjMgNTEuNCAxNzEuNWMtMTIgMS44LTIyIDEwLjItMjUuNyAyMS43cy0uNyAyNC4yIDcuOSAzMi43TDEzNy44IDMyOSAxMTMuMiA0NzQuN2MtMiAxMiAzIDI0LjIgMTIuOSAzMS4zczIzIDggMzMuOCAyLjNsMTI4LjMtNjguNSAxMjguMyA2OC41YzEwLjggNS43IDIzLjkgNC45IDMzLjgtMi4zczE0LjktMTkuMyAxMi45LTMxLjNMNDM4LjUgMzI5IDU0Mi43IDIyNS45YzguNi04LjUgMTEuNy0yMS4yIDcuOS0zMi43cy0xMy43LTE5LjktMjUuNy0yMS43TDM4MS4yIDE1MC4zIDMxNi45IDE4eiIvPjwvc3ZnPg%3D%3D&label=Github%20Star&labelColor=0d1118&color=272932"></a>
+  <a href="mailto:johannesyonela@gmail.com" title="Send Me An E-mail"><img alt="Gmail Badge" src="https://img.shields.io/badge/johannesyoela@gmail.com-272932?style=for-the-badge&logo=gmail&logoColor=fff&label=GMAIL&labelColor=0d1118&link=mail" /></a>
+</p>
+
+<h2>👨🏾‍💻 About Me</h2>
 
 👋 Hi, I'm Yonela
 
@@ -14,27 +21,20 @@ With 4 years of full stack development experience, 🧑‍💻 I’m a passionat
 - 🚀 I’m constantly learning and staying updated with the latest trends in the tech world.
 - 📈 I’m active on CodingWithYonela and I share stories every Wednesday
 
-🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
 React | Node.js | Flask
 MongoDB | PostgreSQL
 Tailwind CSS | Python | Typescript
-<br></br>
-Seeking opportunities in web application and mobile app development
-
-Let's connect and build something amazing together! 🚀
 
 <br />
 
 [![wakatime](https://wakatime.com/badge/user/144c0c10-7b64-415e-899b-d59f7c2cd2b7.svg)](https://wakatime.com/@144c0c10-7b64-415e-899b-d59f7c2cd2b7)
 <img src="https://komarev.com/ghpvc/?username=yonela-johannes&label=Profile%20views&color=0e75b6&style=flat" alt="yonela-johannes" />
-[![committers.top badge](https://user-badge.committers.top/south_africa/Yonela-Johannes.svg)](https://user-badge.committers.top/south_africa/Yonela_Johannes)
 
- - You can check out my portfolio [Yonela Johannes](https://yonela-johannes.vercel.app/)
- - You can follow my journey [CodingWithYonela](https://codingwithyonela.vercel.app/)
 </div>
 
-## 💻 My Stack
+<h2>💻 My Stack</h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -66,7 +66,7 @@ Let's connect and build something amazing together! 🚀
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
     </td>
-    <td align="center" width="96"> 
+    <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
@@ -107,9 +107,7 @@ Let's connect and build something amazing together! 🚀
 </table>
 <br><br>
 
-
 </div>
-
 
 <p align="center">
 <a href="https://github.com/yonela-johannes?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=yonela-johannes&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="49%" alt="@Yonela's github-readme-stats"/></a>
@@ -123,27 +121,14 @@ Let's connect and build something amazing together! 🚀
     </a>
 </p>
 
-## 📊 Stats
+<h2>📊 Stats</h2>
 
  <div align="center">
-   <a href="https://github.com/yonela-johannes">
-    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonela-johannes&show_icons=true&theme=dracula&layout=compact&hide_border=true&exclude_repo=nba-stats-codeigniter&hide=css,html,handlebars,scss" alt="yonela-johannes" />
   <img height="220em" src="https://github-readme-stats.vercel.app/api/wakatime?username=yongs&theme=dracula&layout=compact&hide_border=true&" alt="yonela-johannes" />
-    
+
   </a>
   <div>
 
-## Let's connect. 🤝
-
-  <a href="https://github.com/Yonela-Johannes">
-    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/yonela-johannes" alt="GitHub badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/yonela-johannes">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yonela-johnane" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/johannesyonela">
-    <img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/johannesyonela/" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/johannesyonela">
-    <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/johannesyonela/" alt="Facebook" />
+  <a href="https://github.com/PiyushSuthar/github-readme-quotes" >
+    <img alt="Github Dev Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
   </a>
