@@ -12,7 +12,7 @@
 
 👋 Hi, I'm Yonela
 
-💻 Full Stack Web Developer | 🚀 Founder | 🎓 Personal Programming Mentor
+💻 Full Stack Web Developer
 
 With 4 years of full stack development experience, 🧑‍💻 I’m a passionate software developer focusing on <b>coding</b> and mentoring/coaching others.
 
