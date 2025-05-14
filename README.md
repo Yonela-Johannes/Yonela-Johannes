@@ -11,86 +11,58 @@
 With 4+ years of full-stack development experience, <br />
 🧑‍💻 I’m a passionate software developer focusing on <b>coding</b> and mentoring/coaching others.
 
-<h2>🛠️ Tech Stack</h2>
-
-React (NextJs, Remix) | Node.js | Flask
-MongoDB | PostgreSQL
-Tailwind CSS | Python | Typescript
-
-<br />
-
 [![wakatime](https://wakatime.com/badge/user/144c0c10-7b64-415e-899b-d59f7c2cd2b7.svg)](https://wakatime.com/@144c0c10-7b64-415e-899b-d59f7c2cd2b7)
 </div>
 
-<h2>💻 My Stack</h2>
-
 <div>
+<h2><strong>Languages, Tools and Technologies 🚀 </strong></h2>
+	<br>
 <table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>NextJs
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>Typescript
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-  </tr>
- <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-      <br>Flask
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby" />
-      <br>Ruby
-    </td>
- </tr>
+	<tr>
+		<td><strong>Programming Languages</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=py,js,ts&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Frontend Development</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Backend Development</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=py,nodejs,flask&theme=dark"></td>
+	</tr>
+	<tr>
+	<tr>
+		<td><strong>Database Technologies</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Frameworks</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=react,vite,remix,next&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Hosting Services</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=github,vercel,netlify&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Developer Tools</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark">
+	</td>
+	</tr>
+	<tr>
+		<td><strong>Debugging Tools</strong></td>
+		<td> <img height=40 src="https://skillicons.dev/icons?i=stackoverflow&theme=dark"> &nbsp;<img height=40 src=https://i.ibb.co/qsFmdQc/Untitled-design-2-removebg-preview.png"> &nbsp;<img height=40 src="https://i.ibb.co/pwsQMbV/icon-removebg-preview.png"> &nbsp;<img height=40 src="https://i.ibb.co/t2YS8SV/Screenshot-2024-12-09-at-10-27-30-PM-removebg-preview-3.png"></td>
+	</tr>
+	<tr>
+		<td><strong>Collaboration Platforms</strong></td>
+		<td> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"></td>
+	</tr>
+	<tr>
+		<td><strong>Operating System</strong></td>
+		<td>
+      <img src="https://img.shields.io/badge/Apple-hcc464?style=for-the-badge&logo=apple&logoColor=black" alt="bootstrap" width="" height=""/> </a>
+		 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="bootstrap" width="" height=""/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="bootstrap" width="" height=""/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+		</td>
+	</tr>
 </table>
 </div>
