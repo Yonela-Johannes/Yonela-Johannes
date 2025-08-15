@@ -4,18 +4,38 @@
   <img src="https://komarev.com/ghpvc/?username=yonela-johannes&color=0d1118&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" height="28" />
 </p>
 
-<h2>👨🏾‍💻 About Me</h2>
+<h1>👨🏾‍💻 Hey, I'm <b>Yonela Johannes</b></h1>
+<h3>Full-Stack Developer • Builder of Digital Worlds</h3>
+<h4>From South Africa 🇿🇦 | Turning ideas into products 🚀</h4>
 
-👋🏾 Hey, I'm **Yonela** — also known as **CodingWithYonela**  
-💻 I'm a Full Stack Developer with 4+ years of hands-on experience  
-🌱 I love building thoughtful tech solutions and mentoring others in the coding community  
-🚀 I'm passionate about clean code, knowledge sharing, and learning continuously
+---
+
+- 💻 Full-Stack Developer skilled in **mobile** (React Native, Expo) and **web** (MERN, Flask).
+- 📚 Always learning the _finer things_ in code — from clean architecture to scalable deployments.
+- ✨ Passionate about **community**, **mentorship**, and helping others grow in tech.
+- 📍 Based in South Africa, creating software with a _global_ mindset.
 
 [![wakatime](https://wakatime.com/badge/user/144c0c10-7b64-415e-899b-d59f7c2cd2b7.svg)](https://wakatime.com/@144c0c10-7b64-415e-899b-d59f7c2cd2b7)
 
 ---
 
-<h2><strong>🛠️ Tech Stack & Tools</strong></h2>
+## 🚀 What I Build
+
+### 📱 **Mobile Applications**
+Robust cross-platform apps with **React Native** & Expo — from chat platforms to high school community hangouts.  
+Includes **push notifications**, **maps**, **SQLite/local storage**, and custom UI animations.
+
+### 🌐 **Web Applications**
+Responsive, SEO-friendly, and user-focused.  
+**Stacks:** MERN, Next.js, Vite, Tailwind, TypeScript, Redux.
+
+### 🗄️ **Backend & Cloud**
+Secure APIs, scalable databases, and smooth deployments.  
+**Tech:** Node.js, Flask, PostgreSQL, MongoDB, Vercel, Render.
+
+---
+
+## 🛠️ Skills & Services
 
 <table>
   <tr>
@@ -42,35 +62,11 @@
     <td><strong>Tools</strong></td>
     <td><img height="40" src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"></td>
   </tr>
-  <tr>
-    <td><strong>Debugging & Testing</strong></td>
-    <td>
-      <img height="40" src="https://skillicons.dev/icons?i=stackoverflow&theme=dark">
-      <img height="40" src="https://i.ibb.co/qsFmdQc/Untitled-design-2-removebg-preview.png">
-      <img height="40" src="https://i.ibb.co/pwsQMbV/icon-removebg-preview.png">
-      <img height="40" src="https://i.ibb.co/t2YS8SV/Screenshot-2024-12-09-at-10-27-30-PM-removebg-preview-3.png">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Project Management</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Operating Systems</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-    </td>
-  </tr>
 </table>
 
 ---
 
-<h2>📈 GitHub Stats</h2>
+## 📈 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=yonela-johannes&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" alt="Yonela's GitHub stats" />
 <br/>
