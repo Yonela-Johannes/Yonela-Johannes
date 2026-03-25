@@ -5,36 +5,83 @@
 </p>
 
 <h1>👨🏾‍💻 Hey, I'm <b>Yonela Johannes</b></h1>
-<h3>Full-Stack Developer • Builder of Digital Worlds</h3>
-<h4>From South Africa 🇿🇦 | Turning ideas into products 🚀</h4>
+<h3>Full-Stack Software Engineer | Real-Time Systems Builder</h3>
+<h4>Based in South Africa 🇿🇦 | Building scalable web & mobile platforms</h4>
 
 ---
 
-- 💻 Full-Stack Developer skilled in **mobile** (React Native, Expo) and **web** (MERN, Flask).
-- 📚 Always learning the _finer things_ in code — from clean architecture to scalable deployments.
-- ✨ Passionate about **community**, **mentorship**, and helping others grow in tech.
-- 📍 Based in South Africa, creating software with a _global_ mindset.
+### 🚀 About Me
 
-[![wakatime](https://wakatime.com/badge/user/144c0c10-7b64-415e-899b-d59f7c2cd2b7.svg)](https://wakatime.com/@144c0c10-7b64-415e-899b-d59f7c2cd2b7)
+I’m a **full-stack software engineer** focused on building real-world digital platforms from the ground up.
+My work focuses heavily on **real-time systems, scalable architecture, and clean full-stack development**.
+
+I enjoy building products that solve real problems — not just small projects, but complete platforms that include authentication, messaging systems, media uploads, dashboards, and mobile experiences.
 
 ---
 
-## 🚀 What I'm Building
+## 🛰️ Featured Project: Mango 🥭
 
-### 📱 **Mobile Applications**
-Robust cross-platform apps with **React Native** & Expo — from chat platforms to high school community hangouts.  
-Includes **push notifications**, **maps**, **SQLite/local storage**, and custom UI animations.
+**A Real-Time Location-Based Social Platform**
 
-### 🌐 **Web Applications**
-Responsive, SEO-friendly, and user-focused.  
-**Stacks:** MERN, Next.js, Vite, Tailwind, TypeScript, Redux.
+Mango is not just a chat app — it's a **real-time social ecosystem** that connects users based on location and allows them to interact through live messaging, voice/video calls, and multimedia content.
 
-### 🗄️ **Backend & Cloud**
-Secure APIs, scalable databases, and smooth deployments.  
-**Tech:** Node.js, Flask, PostgreSQL, MongoDB, Vercel, Render.
+### 🔥 What I Built
 
-## 📈 GitHub Stats
+- Real-time group messaging using **Socket.io**
+- 1:1 and group calls using **WebRTC**
+- Location-based news feeds powered by **MongoDB geospatial queries**
+- A dual-identity system (main profile + proxy identity)
+- Fully functional on **Web (Next.js)** and **Mobile (React Native / Expo)**
+- Complete authentication system (JWT, protected routes, secure APIs)
+
+**Tech Stack:**
+Next.js • React Native • Node.js • Express • MongoDB • TypeScript • Tailwind CSS • Socket.io • WebRTC
+
+---
+
+## 🛠️ Technical Stack
+
+| Frontend     | Backend   | Database   | Real-Time | Mobile              | Tools |
+| ------------ | --------- | ---------- | --------- | ------------------- | ----- |
+| Next.js      | Node.js   | MongoDB    | Socket.io | React Native (Expo) | Git   |
+| React        | Express   | PostgreSQL | WebRTC    | TypeScript          |
+| Tailwind CSS | REST APIs |
+
+---
+
+## 📈 GitHub Activity
+
 <img src="https://nirzak-streak-stats.vercel.app/?user=yonela-johannes&theme=gruvbox&hide_border=false" alt="GitHub streak" />
-<br/>
+
+---
+
+## 🎯 What I'm Working On Now
+
+- Scaling real-time messaging systems
+- Improving WebRTC performance
+- Building cross-platform social platforms
+- Contributing to more real-world production projects
+- Preparing for mid-level / full-stack developer roles
+
+---
+
+## 🤝 Let's Connect
+
+I’m always open to:
+
+- Collaboration on real-world projects
+- Open-source contributions
+- Full-stack developer opportunities
+- Learning from other developers
+
+**LinkedIn:** your-linkedin-link
+**Portfolio:** your-portfolio-link
+**GitHub:** https://github.com/yonela-johannes
+
+---
+
+### 💬 Developer Mindset
+
+> I don’t just write code — I build systems that people can actually use.
 
 </div>
