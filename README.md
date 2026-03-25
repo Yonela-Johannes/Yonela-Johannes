@@ -49,12 +49,6 @@ Next.js • React Native • Node.js • Express • MongoDB • TypeScript • 
 
 ---
 
-## 📈 GitHub Activity
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=yonela-johannes&theme=gruvbox&hide_border=false" alt="GitHub streak" />
-
----
-
 ## 🎯 What I'm Working On Now
 
 - Scaling real-time messaging systems
@@ -73,10 +67,6 @@ I’m always open to:
 - Open-source contributions
 - Full-stack developer opportunities
 - Learning from other developers
-
-**LinkedIn:** your-linkedin-link
-**Portfolio:** your-portfolio-link
-**GitHub:** https://github.com/yonela-johannes
 
 ---
 
