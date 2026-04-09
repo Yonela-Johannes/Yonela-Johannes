@@ -5,8 +5,8 @@
 </p>
 
 <h1>👨🏾‍💻 Hey, I'm <b>Yonela Johannes</b></h1>
-<h3>Full-Stack Software Engineer | Real-Time Systems Builder</h3>
-<h4>Based in South Africa 🇿🇦 | Building scalable web & mobile platforms</h4>
+<h3>Full-Stack Software Engineer</h3>
+<h4>Based in South Africa 🇿🇦</h4>
 
 ---
 
@@ -60,18 +60,5 @@ Next.js • React Native • Node.js • Express • MongoDB • TypeScript • 
 ---
 
 ## 🤝 Let's Connect
-
-I’m always open to:
-
-- Collaboration on real-world projects
-- Open-source contributions
-- Full-stack developer opportunities
-- Learning from other developers
-
----
-
-### 💬 Developer Mindset
-
-> I don’t just write code — I build systems that people can actually use.
 
 </div>
