@@ -26,6 +26,7 @@ I enjoy building products that solve real problems — not just small projects, 
 Mango is not just a chat app — it's a **real-time social ecosystem** that connects users based on location and allows them to interact through live messaging, voice/video calls, and multimedia content.
 
 ### 🔥 What I Built
+**Real-Time Location-Based Social Platform** [Live Demo](https://mango-app.vercel.app/)
 
 - Real-time group messaging using **Socket.io**
 - 1:1 and group calls using **WebRTC**
@@ -43,7 +44,7 @@ Next.js • React Native • Node.js • Express • MongoDB • TypeScript • 
 
 | Frontend     | Backend   | Database   | Real-Time | Mobile              | Tools |
 | ------------ | --------- | ---------- | --------- | ------------------- | ----- |
-| Next.js      | Node.js   | MongoDB    | Socket.io | React Native (Expo) | Git   |
+| Next.js      | Node.js / Python   | MongoDB    | Socket.io | React Native (Expo) | Git   |
 | React        | Express   | PostgreSQL | WebRTC    | TypeScript          |
 | Tailwind CSS | REST APIs |
 
