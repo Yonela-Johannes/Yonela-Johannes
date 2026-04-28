@@ -60,6 +60,4 @@ Next.js • React Native • Node.js • Express • MongoDB • TypeScript • 
 
 ---
 
-## 🤝 Let's Connect
-
 </div>
