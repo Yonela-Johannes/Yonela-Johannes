@@ -36,6 +36,6 @@ I've worked on everything from **high-traffic e-commerce platforms for global br
 
 Building products · Exploring new technology · Solving interesting problems
 
-**[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](https://yonelajohannes.vercel.app/)**
+**[LinkedIn](https://www.linkedin.com/in/yonela-johannes/) · [Portfolio](https://yonelajohannes.vercel.app/)**
 
 </div>
