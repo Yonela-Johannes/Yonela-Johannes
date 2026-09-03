@@ -2,39 +2,45 @@
 
 # Yonela Johannes
 
-**Full Stack Engineer · TypeScript · Web & Mobile · Real-Time Systems**
+**Full Stack Engineer · TypeScript · Web & Mobile · Product Systems**
 
 📍 Cape Town, South Africa 🇿🇦
 
-I build **scalable web and mobile applications** with a focus on clean architecture, performance, and great user experiences.
+I’m a **Full Stack Engineer focused on building production-ready digital products**, from the first interface to the backend systems that power them.
 
-I enjoy turning complex problems into simple, reliable systems — from the UI all the way to the backend.
+I work across **web, mobile, real-time communication, commerce, and SaaS**, with a strong focus on architecture, performance, scalability, and user experience.
 
-### ⚡ What I Work With
+I enjoy taking complex product requirements and turning them into **clean, reliable systems that are built to ship and evolve.**
+
+### ⚡ Engineering
 
 `TypeScript` `React` `Next.js` `React Native` `Expo`
-`Node.js` `PostgreSQL` `MongoDB` `Prisma`
-`REST` `WebSockets` `Socket.IO` `WebRTC` `AI`
+`Node.js` `NestJS` `PostgreSQL` `MongoDB` `Prisma`
+`REST APIs` `WebSockets` `Socket.IO` `WebRTC` `AI`
 
-### Maya
+### 🚀 Maya
 
-A full-stack social & communication platform built from the ground up.
+A full-stack **social and real-time communication platform** built from the ground up.
 
 **Web · iOS · Android**
 
-Real-time messaging, video & audio calls, AI features, location-based feeds, and more.
+Maya brings together community spaces, real-time messaging, presence, location-based discovery, notifications, voice and video communication, and AI-powered features into a single cross-platform product.
+
+Built across the full stack — from **React and React Native interfaces to backend services, databases, real-time infrastructure, and WebRTC communication.**
 
 **[Explore Maya →](https://mango-app.vercel.app/)**
 
 ### 💼 Experience
 
-**4+ years** building and shipping production software across different products and industries.
+**5+ years** building and shipping software across products, platforms, and industries.
 
-I've worked on everything from **high-traffic e-commerce platforms for global brands** to real-time mobile applications, with a focus on performance, scalability, stability, and developer experience.
+I’ve worked on **high-traffic commerce experiences for global brands**, SaaS platforms, marketplaces, and real-time applications across web and mobile.
+
+My work spans frontend architecture, backend development, APIs, databases, integrations, real-time systems, and production delivery — with an emphasis on **performance, scalability, maintainability, and developer experience.**
 
 ### Currently
 
-Building products · Exploring new technology · Solving interesting problems
+Building products · Exploring new technologies · Designing better systems
 
 **[LinkedIn](https://www.linkedin.com/in/yonela-johannes/) · [Portfolio](https://yonelajohannes.vercel.app/)**
 
