@@ -42,6 +42,9 @@ I enjoy taking complex product ideas and turning them into **working software th
 ## 📊 Coding Activity
 
 <!--START_SECTION:waka-->
+
+![Code Time](https://img.shields.io/badge/Code%20Time-6%2C369%20hrs%204%20mins-blue?style=flat)
+
 <!--END_SECTION:waka-->
 
 <sub>Automatically generated from my WakaTime activity.</sub>
