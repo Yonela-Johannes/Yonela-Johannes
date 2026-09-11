@@ -171,8 +171,3 @@ These README stats are generated using the GitHub Action [**waka-readme-stats**]
 > **Note:** Top languages does not indicate my skill level or anything like that. It is simply a metric showing which languages have been hosted by me on GitHub based on usage across repositories. There are other languages I use that I haven't put up on GitHub.
 
 </div>
-
-
-One thing I would **not** manually maintain: everything between  and. Your GitHub Action should overwrite that section automatically.
-
-Also, I changed the broken `Waka Readme` badge link to the repository's **Actions** page rather than the old  pattern.
