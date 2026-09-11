@@ -31,6 +31,8 @@ I enjoy taking complex product requirements and turning them into **clean, relia
 
 <!--START_SECTION:waka-->
 
+![Code Time](https://img.shields.io/badge/Code%20Time-6%2C367%20hrs%2026%20mins-blue?style=flat)
+
 <!--END_SECTION:waka-->
 
 ---
