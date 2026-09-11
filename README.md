@@ -2,32 +2,44 @@
 
 # Yonela Johannes
 
+**Full Stack Engineer · TypeScript · Product Systems · Web & Mobile**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yonela--johannes-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonela-johannes/)
 [![GitHub Followers](https://img.shields.io/github/followers/yonela-johannes?label=Follow&style=social)](https://github.com/yonela-johannes)
-[![Website](https://img.shields.io/badge/Website-46a2f1.svg?style=flat-square&logo=google-chrome&logoColor=white)](https://yonelajohannes.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-Portfolio-46a2f1.svg?style=flat-square&logo=google-chrome&logoColor=white)](https://yonelajohannes.vercel.app/)
 [![WakaTime](https://wakatime.com/badge/user/144c0c10-7b64-415e-899b-d59f7c2cd2b7.svg)](https://wakatime.com/@144c0c10-7b64-415e-899b-d59f7c2cd2b7)
-
----
-
-## Full Stack Engineer · TypeScript · Web & Mobile · Product Systems
 
 📍 Cape Town, South Africa 🇿🇦
 
-I’m a **Full Stack Engineer focused on building production-ready digital products**, from the first interface to the backend systems that power them.
+I build **production-ready digital products from end to end** — from interfaces and user experiences to APIs, databases, real-time infrastructure, and deployment.
 
-I work across **web, mobile, real-time communication, commerce, and SaaS**, with a strong focus on architecture, performance, scalability, and user experience.
+My work spans **commerce, SaaS, marketplaces, social platforms, real-time communication, and mobile applications**, with a focus on building systems that are reliable, scalable, maintainable, and ready to evolve.
 
-I enjoy taking complex product requirements and turning them into **clean, reliable systems that are built to ship and evolve.**
+I enjoy taking complex product ideas and turning them into **working software that people can actually use.**
+
+---
 
 ## ⚡ Engineering
 
-`TypeScript` `React` `Next.js` `React Native` `Expo`
+**Frontend**
 
-`Node.js` `NestJS` `PostgreSQL` `MongoDB` `Prisma`
+`TypeScript` `JavaScript` `React` `Next.js` `React Native` `Expo` `Tailwind CSS`
 
-`REST APIs` `WebSockets` `Socket.IO` `WebRTC` `AI`
+**Backend & Data**
+
+`Node.js` `NestJS` `PostgreSQL` `MongoDB` `Prisma` `REST APIs`
+
+**Real-Time & Infrastructure**
+
+`WebSockets` `Socket.IO` `WebRTC` `AWS` `S3` `Neon` `Vercel`
+
+**Product Engineering**
+
+`SaaS` `E-Commerce` `Marketplaces` `Real-Time Systems` `AI` `API Design`
 
 ---
+
+## 📊 Coding Activity
 
 <!--START_SECTION:waka-->
 
@@ -35,17 +47,28 @@ I enjoy taking complex product requirements and turning them into **clean, relia
 
 <!--END_SECTION:waka-->
 
+<sub>Automatically generated from my WakaTime activity.</sub>
+
 ---
 
-## 🚀 Maya
+## 🚀 Featured Project — Maya
 
-A full-stack **social and real-time communication platform** built from the ground up.
+**Maya** is a full-stack social and real-time communication platform built from the ground up.
 
 **Web · iOS · Android**
 
-Maya brings together community spaces, real-time messaging, presence, location-based discovery, notifications, voice and video communication, and AI-powered features into a single cross-platform product.
+The platform brings together:
 
-Built across the full stack — from **React and React Native interfaces to backend services, databases, real-time infrastructure, and WebRTC communication.**
+- Community spaces
+- Real-time messaging
+- Presence and activity
+- Location-based discovery
+- Notifications
+- Voice & video communication
+- AI-powered features
+- Cross-platform experiences
+
+Built across the entire stack — from **React and React Native interfaces to backend services, databases, real-time infrastructure, and WebRTC communication.**
 
 **[Explore Maya →](https://mango-app.vercel.app/)**
 
@@ -53,22 +76,52 @@ Built across the full stack — from **React and React Native interfaces to back
 
 ## 💼 Experience
 
-**5+ years** building and shipping software across products, platforms, and industries.
+**5+ years building and shipping software across products, platforms, and industries.**
 
-I’ve worked on **high-traffic commerce experiences for global brands**, SaaS platforms, marketplaces, and real-time applications across web and mobile.
+I've worked on **high-traffic commerce experiences for global brands**, SaaS platforms, marketplaces, and real-time applications across web and mobile.
 
-My work spans frontend architecture, backend development, APIs, databases, integrations, real-time systems, and production delivery — with an emphasis on **performance, scalability, maintainability, and developer experience.**
+My work covers:
 
-## Currently
+- Frontend architecture
+- Backend development
+- API design
+- Database architecture
+- Real-time systems
+- Third-party integrations
+- E-commerce
+- Production delivery
+- Performance & scalability
 
-Building products · Exploring new technologies · Designing better systems
-
-**[LinkedIn](https://www.linkedin.com/in/yonela-johannes/)** · **[Portfolio](https://yonelajohannes.vercel.app/)**
+I care about more than making software work. I care about building systems that are **clear to understand, reliable in production, and easy to evolve.**
 
 ---
 
-These README stats are generated using the GitHub Action [**waka-readme-stats**](https://github.com/anmol098/waka-readme-stats).
+## 🧭 What I'm Building
 
-> **Note:** Top languages does not indicate my skill level or anything like that. It is simply a metric showing which languages have been hosted by me on GitHub based on usage across repositories. There are other languages I use that I haven't put up on GitHub.
+Currently focused on:
+
+**Building products · Exploring new technologies · Designing better systems**
+
+I'm particularly interested in the intersection of **software engineering, product development, AI, real-time systems, and platforms that solve practical problems.**
+
+---
+
+## 🤝 Connect
+
+If you're building something interesting, working on a product, or looking to collaborate:
+
+**[LinkedIn](https://www.linkedin.com/in/yonela-johannes/)** · **[Portfolio](https://yonelajohannes.vercel.app/)** · **[GitHub](https://github.com/yonela-johannes)**
+
+---
+
+<sub>
+WakaTime statistics are automatically generated using my
+<a href="https://github.com/Yonela-Johannes/waka-readme-stats">waka-readme-stats</a>
+GitHub Action.
+</sub>
+
+<sub>
+Top languages represent coding activity and are not an indication of proficiency or skill level.
+</sub>
 
 </div>
