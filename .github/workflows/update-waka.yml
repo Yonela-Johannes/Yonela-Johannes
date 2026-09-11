@@ -1,0 +1,25 @@
+name: Update WakaTime Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate WakaTime Stats
+        uses: yonela-johannes/waka-readme-stats@main
+        with:
+          wakatime_api_key: ${{ secrets.WAKATIME_API_KEY }}
+          github_token: ${{ secrets.GH_TOKEN }}
+          github_repository: ${{ github.repository }}
+          readme_path: README.md
