@@ -43,7 +43,44 @@ I enjoy taking complex product ideas and turning them into **working software th
 
 <!--START_SECTION:waka-->
 
-![Code Time](https://img.shields.io/badge/Code%20Time-6%2C369%20hrs%204%20mins-blue?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-6%2C372%20hrs%2042%20mins-blue?style=flat)
+
+### 💻 Languages
+
+```text
+TypeScript             1 hr 42 mins       ██████████░░░░░░░░░░░░░░ 42.62%
+YAML                   47 mins            █████░░░░░░░░░░░░░░░░░░░ 19.83%
+Markdown               43 mins            ████░░░░░░░░░░░░░░░░░░░░ 18.18%
+JavaScript             35 mins            ████░░░░░░░░░░░░░░░░░░░░ 14.83%
+Other                  8 mins             █░░░░░░░░░░░░░░░░░░░░░░░ 3.53%
+JSON                   1 min              ░░░░░░░░░░░░░░░░░░░░░░░░ 0.73%
+Git Config             0 secs             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.26%
+shell script           0 secs             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.01%
+```
+
+### 🔥 Editors
+
+```text
+VS Code                3 hrs 19 mins      ████████████████████░░░░ 83.11%
+Zed                    35 mins            ████░░░░░░░░░░░░░░░░░░░░ 14.92%
+Copilot CLI            4 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 1.73%
+Claude Code            0 secs             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.24%
+```
+
+### 🖥️ Operating Systems
+
+```text
+Linux                  3 hrs 59 mins      ████████████████████████ 100.00%
+```
+
+### 📦 Projects
+
+```text
+markdae                1 hr 42 mins       ██████████░░░░░░░░░░░░░░ 42.63%
+Yonela-Johannes        1 hr 8 mins        ███████░░░░░░░░░░░░░░░░░ 28.44%
+waka-readme-stats      56 mins            ██████░░░░░░░░░░░░░░░░░░ 23.66%
+Unknown Project        12 mins            █░░░░░░░░░░░░░░░░░░░░░░░ 5.28%
+```
 
 <!--END_SECTION:waka-->
 
