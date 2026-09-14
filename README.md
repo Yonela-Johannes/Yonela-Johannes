@@ -6,7 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yonela--johannes-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonela-johannes/)
 [![GitHub Followers](https://img.shields.io/github/followers/yonela-johannes?label=Follow&style=social)](https://github.com/yonela-johannes)
-[![Website](https://img.shields.io/badge/Website-Portfolio-46a2f1.svg?style=flat-square&logo=google-chrome&logoColor=white)](https://yonelajohannes.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-46a2f1.svg?style=flat-square&logo=google-chrome&logoColor=white)](https://yonelajohannes.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-46a2f1.svg?style=flat-square&logo=google-chrome&logoColor=white)](https://yonela-johannes.vercel.app/)
 [![Code time](https://wakatime.com/badge/user/144c0c10-7b64-415e-899b-d59f7c2cd2b7.svg)](https://wakatime.com/@144c0c10-7b64-415e-899b-d59f7c2cd2b7)
 
 📍 Cape Town, South Africa 🇿🇦
@@ -147,7 +148,7 @@ I'm particularly interested in the intersection of **software engineering, produ
 
 If you're building something interesting, working on a product, or looking to collaborate:
 
-**[LinkedIn](https://www.linkedin.com/in/yonela-johannes/)** · **[Portfolio](https://yonelajohannes.vercel.app/)** · **[GitHub](https://github.com/yonela-johannes)**
+**[LinkedIn](https://www.linkedin.com/in/yonela-johannes/)** · **[Website](https://yonela-johannes.vercel.app/)** · **[Portfolio](https://yonelajohannes.vercel.app/)** · **[GitHub](https://github.com/yonela-johannes)**
 
 ---
 
