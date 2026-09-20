@@ -9,6 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-46a2f1.svg?style=flat-square&logo=google-chrome&logoColor=white)](https://yonelajohannes.vercel.app/)
 [![Website](https://img.shields.io/badge/Website-46a2f1.svg?style=flat-square&logo=google-chrome&logoColor=white)](https://yonela-johannes.vercel.app/)
 [![Code time](https://wakatime.com/badge/user/144c0c10-7b64-415e-899b-d59f7c2cd2b7.svg)](https://wakatime.com/@144c0c10-7b64-415e-899b-d59f7c2cd2b7)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=blue&label=hits&size=small&base_count=1)](https://myhits.vercel.app)
 
 📍 Cape Town, South Africa 🇿🇦
 
