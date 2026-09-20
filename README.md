@@ -49,38 +49,35 @@ I enjoy taking complex product ideas and turning them into **working software th
 ### 💻 Languages
 
 ```text
-TypeScript             19 hrs 8 mins      █████████████████████░░░ 87.89%
-JSON                   1 hr 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░ 6.96%
-shell script           31 mins            █░░░░░░░░░░░░░░░░░░░░░░░ 2.44%
-CSS                    12 mins            ░░░░░░░░░░░░░░░░░░░░░░░░ 0.96%
-Other                  12 mins            ░░░░░░░░░░░░░░░░░░░░░░░░ 0.94%
-Bash                   6 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.48%
-Markdown               2 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.16%
-SQL                    2 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.16%
+TypeScript             14 hrs 17 mins     █████████████████████░░░ 86.27%
+JSON                   1 hr 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░ 8.63%
+shell script           31 mins            █░░░░░░░░░░░░░░░░░░░░░░░ 3.21%
+CSS                    10 mins            ░░░░░░░░░░░░░░░░░░░░░░░░ 1.04%
+Bash                   6 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.63%
+Markdown               2 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.22%
+Image (svg)            0 secs             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.01%
 ```
 
 ### 🔥 Editors
 
 ```text
-Zed                    20 hrs 10 mins     ██████████████████████░░ 92.59%
-Copilot CLI            1 hr 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░ 6.42%
-VS Code                12 mins            ░░░░░░░░░░░░░░░░░░░░░░░░ 0.99%
+Zed                    16 hrs 34 mins     ████████████████████████ 100.00%
 ```
 
 ### 🖥️ Operating Systems
 
 ```text
-Linux                  21 hrs 47 mins     ████████████████████████ 100.00%
+Linux                  16 hrs 34 mins     ████████████████████████ 100.00%
 ```
 
 ### 📦 Projects
 
 ```text
-website                9 hrs 50 mins      ███████████░░░░░░░░░░░░░ 45.20%
-markdae                7 hrs 21 mins      ████████░░░░░░░░░░░░░░░░ 33.77%
-Unknown Project        2 hrs 36 mins      ███░░░░░░░░░░░░░░░░░░░░░ 12.01%
-Yonela-Johannes        1 hr 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░ 8.41%
-HOT-Beauty-Salon       8 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.61%
+website                9 hrs 50 mins      ██████████████░░░░░░░░░░ 59.42%
+Unknown Project        2 hrs 36 mins      ████░░░░░░░░░░░░░░░░░░░░ 15.79%
+markdae                2 hrs 8 mins       ███░░░░░░░░░░░░░░░░░░░░░ 12.93%
+Yonela-Johannes        1 hr 49 mins       ███░░░░░░░░░░░░░░░░░░░░░ 11.06%
+HOT-Beauty-Salon       8 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.80%
 ```
 
 <!--END_SECTION:waka-->
