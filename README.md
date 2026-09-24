@@ -45,43 +45,43 @@ I enjoy taking complex product ideas and turning them into **working software th
 
 <!--START_SECTION:waka-->
 
-![Code Time](https://img.shields.io/badge/Code%20Time-6%2C397%20hrs%2015%20mins-blue?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-6%2C396%20hrs%2047%20mins-blue?style=flat)
 
 ### 💻 Languages
 
 ```text
-JavaScript             4 hrs 37 mins      ███████████████████░░░░░ 78.91%
-TypeScript             39 mins            ███░░░░░░░░░░░░░░░░░░░░░ 11.25%
-JSON                   14 mins            █░░░░░░░░░░░░░░░░░░░░░░░ 4.12%
-shell script           12 mins            █░░░░░░░░░░░░░░░░░░░░░░░ 3.56%
-CSS                    4 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 1.35%
-Python                 1 min              ░░░░░░░░░░░░░░░░░░░░░░░░ 0.56%
-HTML                   0 secs             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.24%
-Text                   0 secs             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.02%
+JavaScript             4 hrs 27 mins      ██████████████████░░░░░░ 74.63%
+TypeScript             55 mins            ████░░░░░░░░░░░░░░░░░░░░ 15.44%
+JSON                   14 mins            █░░░░░░░░░░░░░░░░░░░░░░░ 4.04%
+Other                  9 mins             █░░░░░░░░░░░░░░░░░░░░░░░ 2.68%
+CSS                    4 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 1.32%
+shell script           3 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 1.09%
+Python                 1 min              ░░░░░░░░░░░░░░░░░░░░░░░░ 0.55%
+HTML                   0 secs             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.23%
 ```
 
 ### 🔥 Editors
 
 ```text
-Zed                    5 hrs 41 mins      ███████████████████████░ 97.14%
-VS Code                10 mins            █░░░░░░░░░░░░░░░░░░░░░░░ 2.86%
+Zed                    5 hrs 48 mins      ███████████████████████░ 97.20%
+VS Code                10 mins            █░░░░░░░░░░░░░░░░░░░░░░░ 2.80%
 ```
 
 ### 🖥️ Operating Systems
 
 ```text
-Linux                  5 hrs 51 mins      ████████████████████████ 100.00%
+Linux                  5 hrs 58 mins      ████████████████████████ 100.00%
 ```
 
 ### 📦 Projects
 
 ```text
-codingwithyonela       5 hrs 5 mins       █████████████████████░░░ 86.99%
-markdae                25 mins            ██░░░░░░░░░░░░░░░░░░░░░░ 7.19%
-maya                   10 mins            █░░░░░░░░░░░░░░░░░░░░░░░ 3.05%
-Unknown Project        5 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 1.61%
-Yonela-Johannes        3 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.96%
-HOT-Beauty-Salon       0 secs             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.20%
+codingwithyonela       4 hrs 55 mins      ████████████████████░░░░ 82.56%
+website                35 mins            ██░░░░░░░░░░░░░░░░░░░░░░ 9.98%
+maya                   10 mins            █░░░░░░░░░░░░░░░░░░░░░░░ 3.02%
+Unknown Project        5 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 1.58%
+markdae                5 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 1.53%
+Yonela-Johannes        4 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 1.32%
 ```
 
 <!--END_SECTION:waka-->
