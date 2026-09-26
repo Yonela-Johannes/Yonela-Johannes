@@ -50,38 +50,41 @@ I enjoy taking complex product ideas and turning them into **working software th
 ### 💻 Languages
 
 ```text
-JavaScript             4 hrs 27 mins      █████████████░░░░░░░░░░░ 55.02%
-TypeScript             2 hrs 46 mins      ████████░░░░░░░░░░░░░░░░ 34.19%
-CSS                    21 mins            █░░░░░░░░░░░░░░░░░░░░░░░ 4.33%
-JSON                   16 mins            █░░░░░░░░░░░░░░░░░░░░░░░ 3.32%
-Other                  9 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 1.98%
-HTML                   3 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.64%
-Python                 1 min              ░░░░░░░░░░░░░░░░░░░░░░░░ 0.40%
-Markdown               0 secs             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.10%
+TypeScript             5 hrs 28 mins      ██████████░░░░░░░░░░░░░░ 42.59%
+JavaScript             4 hrs 30 mins      ████████░░░░░░░░░░░░░░░░ 35.14%
+Markdown               49 mins            ██░░░░░░░░░░░░░░░░░░░░░░ 6.47%
+JSON                   42 mins            █░░░░░░░░░░░░░░░░░░░░░░░ 5.47%
+CSS                    22 mins            █░░░░░░░░░░░░░░░░░░░░░░░ 2.98%
+Other                  15 mins            ░░░░░░░░░░░░░░░░░░░░░░░░ 1.97%
+jsonc                  13 mins            ░░░░░░░░░░░░░░░░░░░░░░░░ 1.75%
+Text                   9 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 1.21%
 ```
 
 ### 🔥 Editors
 
 ```text
-Zed                    7 hrs 56 mins      ████████████████████████ 97.94%
-VS Code                10 mins            ░░░░░░░░░░░░░░░░░░░░░░░░ 2.06%
+Zed                    11 hrs 19 mins     █████████████████████░░░ 88.18%
+CLI                    1 hr 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░ 8.73%
+VS Code                23 mins            █░░░░░░░░░░░░░░░░░░░░░░░ 3.09%
 ```
 
 ### 🖥️ Operating Systems
 
 ```text
-Linux                  8 hrs 6 mins       ████████████████████████ 100.00%
+Linux                  12 hrs 50 mins     ████████████████████████ 100.00%
 ```
 
 ### 📦 Projects
 
 ```text
-codingwithyonela       4 hrs 55 mins      ███████████████░░░░░░░░░ 60.86%
-Unknown Project        2 hrs 19 mins      ███████░░░░░░░░░░░░░░░░░ 28.71%
-website                36 mins            ██░░░░░░░░░░░░░░░░░░░░░░ 7.57%
-maya                   11 mins            █░░░░░░░░░░░░░░░░░░░░░░░ 2.28%
-markdae                1 min              ░░░░░░░░░░░░░░░░░░░░░░░░ 0.30%
-Yonela-Johannes        1 min              ░░░░░░░░░░░░░░░░░░░░░░░░ 0.28%
+codingwithyonela       4 hrs 55 mins      █████████░░░░░░░░░░░░░░░ 38.39%
+Unknown Project        2 hrs 47 mins      █████░░░░░░░░░░░░░░░░░░░ 21.78%
+seene                  2 hrs 14 mins      ████░░░░░░░░░░░░░░░░░░░░ 17.48%
+reply                  1 hr 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░ 10.34%
+maya                   45 mins            █░░░░░░░░░░░░░░░░░░░░░░░ 5.85%
+website                36 mins            █░░░░░░░░░░░░░░░░░░░░░░░ 4.78%
+flute-main             5 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.69%
+markdae                1 min              ░░░░░░░░░░░░░░░░░░░░░░░░ 0.19%
 ```
 
 <!--END_SECTION:waka-->
