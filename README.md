@@ -45,7 +45,7 @@ I enjoy taking complex product ideas and turning them into **working software th
 
 <!--START_SECTION:waka-->
 
-![Code Time](https://img.shields.io/badge/Code%20Time-6%2C421%20hrs%2024%20mins-blue?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-6%2C417%20hrs%2028%20mins-blue?style=flat)
 
 ### 💻 Languages
 
