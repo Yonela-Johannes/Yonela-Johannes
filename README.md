@@ -45,30 +45,31 @@ I enjoy taking complex product ideas and turning them into **working software th
 
 <!--START_SECTION:waka-->
 
-![Code Time](https://img.shields.io/badge/Code%20Time-6%2C425%20hrs%2050%20mins-blue?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-6%2C440%20hrs%208%20mins-blue?style=flat)
 
 ### 💻 Languages (Time Coded)
 
 ```text
-TypeScript             20 hrs 52 mins     █████████████████░░░░░░░ 71.11%
-Markdown               2 hrs 33 mins      ██░░░░░░░░░░░░░░░░░░░░░░ 8.73%
-JSON                   1 hr 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░ 5.75%
-Other                  1 hr 1 min         █░░░░░░░░░░░░░░░░░░░░░░░ 3.47%
-JavaScript             1 hr               █░░░░░░░░░░░░░░░░░░░░░░░ 3.43%
-Text                   56 mins            █░░░░░░░░░░░░░░░░░░░░░░░ 3.21%
-CSS                    22 mins            ░░░░░░░░░░░░░░░░░░░░░░░░ 1.26%
-jsonc                  14 mins            ░░░░░░░░░░░░░░░░░░░░░░░░ 0.80%
-Prisma                 7 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.42%
-Git Config             7 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.41%
-YAML                   6 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.37%
-Bash                   5 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.31%
-SQL                    3 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.21%
-HTML                   2 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.17%
-XML                    2 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.12%
-TSConfig               1 min              ░░░░░░░░░░░░░░░░░░░░░░░░ 0.09%
-Python                 1 min              ░░░░░░░░░░░░░░░░░░░░░░░░ 0.09%
-Image (png)            0 secs             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.02%
-Objective-C            0 secs             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.02%
+TypeScript             28 hrs 17 mins     ████████████████░░░░░░░░ 65.63%
+Markdown               4 hrs 24 mins      ██░░░░░░░░░░░░░░░░░░░░░░ 10.22%
+Other                  2 hrs 19 mins      █░░░░░░░░░░░░░░░░░░░░░░░ 5.38%
+JavaScript             2 hrs 14 mins      █░░░░░░░░░░░░░░░░░░░░░░░ 5.19%
+JSON                   2 hrs 12 mins      █░░░░░░░░░░░░░░░░░░░░░░░ 5.11%
+Text                   1 hr 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░ 2.50%
+CSS                    52 mins            ░░░░░░░░░░░░░░░░░░░░░░░░ 2.05%
+YAML                   20 mins            ░░░░░░░░░░░░░░░░░░░░░░░░ 0.81%
+jsonc                  14 mins            ░░░░░░░░░░░░░░░░░░░░░░░░ 0.54%
+TSConfig               12 mins            ░░░░░░░░░░░░░░░░░░░░░░░░ 0.48%
+Image (jpeg)           10 mins            ░░░░░░░░░░░░░░░░░░░░░░░░ 0.40%
+Bash                   10 mins            ░░░░░░░░░░░░░░░░░░░░░░░░ 0.40%
+Prisma                 10 mins            ░░░░░░░░░░░░░░░░░░░░░░░░ 0.39%
+Git Config             7 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.29%
+Python                 6 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.25%
+SQL                    3 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.14%
+HTML                   3 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.12%
+XML                    2 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.08%
+Image (png)            0 secs             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.01%
+Objective-C            0 secs             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.01%
 Image (svg)            0 secs             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
 ```
 
@@ -94,29 +95,29 @@ Procfile               52 B (4 repos)      ░░░░░░░░░░░░�
 ### 🔥 Editors
 
 ```text
-Zed                    11 hrs 17 mins     █████████░░░░░░░░░░░░░░░ 38.49%
-CLI                    10 hrs 3 mins      ████████░░░░░░░░░░░░░░░░ 34.30%
-VS Code                7 hrs 53 mins      ██████░░░░░░░░░░░░░░░░░░ 26.91%
-KiloCode               5 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.30%
+VS Code                20 hrs 8 mins      ███████████░░░░░░░░░░░░░ 46.73%
+CLI                    11 hrs 37 mins     ██████░░░░░░░░░░░░░░░░░░ 26.97%
+Zed                    11 hrs 14 mins     ██████░░░░░░░░░░░░░░░░░░ 26.09%
+KiloCode               5 mins             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.21%
 ```
 
 ### 🖥️ Operating Systems
 
 ```text
-Linux                  29 hrs 20 mins     ████████████████████████ 100.00%
+Linux                  43 hrs 6 mins      ████████████████████████ 100.00%
 ```
 
 ### 📦 Projects
 
 ```text
-seene                  13 hrs 48 mins     ███████████░░░░░░░░░░░░░ 47.08%
-maya                   5 hrs 41 mins      █████░░░░░░░░░░░░░░░░░░░ 19.39%
-Unknown Project        2 hrs 56 mins      ██░░░░░░░░░░░░░░░░░░░░░░ 10.01%
-foundation             2 hrs 50 mins      ██░░░░░░░░░░░░░░░░░░░░░░ 9.69%
-reply                  2 hrs 45 mins      ██░░░░░░░░░░░░░░░░░░░░░░ 9.38%
-website                27 mins            ░░░░░░░░░░░░░░░░░░░░░░░░ 1.54%
-clockwork              23 mins            ░░░░░░░░░░░░░░░░░░░░░░░░ 1.34%
-Yonela-Johannes        19 mins            ░░░░░░░░░░░░░░░░░░░░░░░░ 1.11%
+seene                  13 hrs 48 mins     ████████░░░░░░░░░░░░░░░░ 32.04%
+reply                  12 hrs 54 mins     ███████░░░░░░░░░░░░░░░░░ 29.94%
+maya                   6 hrs 15 mins      ███░░░░░░░░░░░░░░░░░░░░░ 14.53%
+Unknown Project        2 hrs 56 mins      ██░░░░░░░░░░░░░░░░░░░░░░ 6.83%
+foundation             2 hrs 50 mins      ██░░░░░░░░░░░░░░░░░░░░░░ 6.60%
+Yonela-Johannes        1 hr 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░ 3.75%
+codingwithyonela       1 hr 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░ 2.99%
+website                27 mins            ░░░░░░░░░░░░░░░░░░░░░░░░ 1.05%
 ```
 
 <!--END_SECTION:waka-->
