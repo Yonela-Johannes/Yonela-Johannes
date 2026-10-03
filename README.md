@@ -1,15 +1,12 @@
-<div align="left">
-
 # Yonela Johannes
 
 **Full Stack Engineer · TypeScript · Product Systems · Web & Mobile**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yonela--johannes-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonela-johannes/)
-[![GitHub Followers](https://img.shields.io/github/followers/yonela-johannes?label=Follow&style=social)](https://github.com/yonela-johannes)
 [![Portfolio](https://img.shields.io/badge/Portfolio-46a2f1.svg?style=flat-square&logo=google-chrome&logoColor=white)](https://yonelajohannes.vercel.app/)
-[![Website](https://img.shields.io/badge/Website-46a2f1.svg?style=flat-square&logo=google-chrome&logoColor=white)](https://yonela-johannes.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yonela--johannes-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonela-johannes/)
+[![GitHub Followers](https://img.shields.io/github/followers/yonela-johannes?label=Follow&style=flat-square&logo=github&color=181717)](https://github.com/yonela-johannes)
 [![Code time](https://wakatime.com/badge/user/144c0c10-7b64-415e-899b-d59f7c2cd2b7.svg)](https://wakatime.com/@144c0c10-7b64-415e-899b-d59f7c2cd2b7)
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=blue&label=hits&size=small&base_count=1)](https://myhits.vercel.app)
+[![Profile hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fyonela-johannes?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 
 📍 Cape Town, South Africa 🇿🇦
 
@@ -124,7 +121,9 @@ yonelajohannes-website 21 mins            ░░░░░░░░░░░░�
 
 ---
 
-## 🚀 Featured Project — Maya
+## 🚀 Featured Work
+
+### Maya — social & real-time platform
 
 **Maya** is a full-stack social and real-time communication platform built from the ground up.
 
@@ -144,6 +143,12 @@ The platform brings together:
 Built across the entire stack — from **React and React Native interfaces to backend services, databases, real-time infrastructure, and WebRTC communication.**
 
 **[Explore Maya →](https://mango-app.vercel.app/)**
+
+### Drip — screen time that replenishes
+
+**Drip** is a screen-time product for building a deliberate relationship with your devices. You set a balance of time for the apps, websites, and categories you choose — new blocklists earn more time after a break, and existing lists keep their periodic refills.
+
+**[Explore Drip →](https://drip-theta.vercel.app/)**
 
 ---
 
@@ -183,7 +188,7 @@ I'm particularly interested in the intersection of **software engineering, produ
 
 If you're building something interesting, working on a product, or looking to collaborate:
 
-**[LinkedIn](https://www.linkedin.com/in/yonela-johannes/)** · **[Website](https://yonela-johannes.vercel.app/)** · **[Portfolio](https://yonelajohannes.vercel.app/)** · **[GitHub](https://github.com/yonela-johannes)**
+**[Portfolio](https://yonelajohannes.vercel.app/)** · **[LinkedIn](https://www.linkedin.com/in/yonela-johannes/)** · **[GitHub](https://github.com/yonela-johannes)**
 
 ---
 
@@ -196,5 +201,3 @@ GitHub Action.
 <sub>
 Top languages represent coding activity and are not an indication of proficiency or skill level.
 </sub>
-
-</div>

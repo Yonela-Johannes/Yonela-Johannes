@@ -8,18 +8,39 @@ on:
 permissions:
   contents: write
 
+# Never run two updates at once: the action commits to the README, so
+# overlapping runs would race on the same file.
+concurrency:
+  group: waka-readme
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
       - name: Generate WakaTime Stats
+        # Tip: pin to a commit SHA for a stricter supply-chain guarantee
+        # (e.g. yonela-johannes/waka-readme-stats@864bcdf82ced079a3cec08a68523a91df66a4f79).
         uses: yonela-johannes/waka-readme-stats@main
         with:
           wakatime_api_key: ${{ secrets.WAKATIME_API_KEY }}
-          github_token: ${{ secrets.GH_TOKEN }}
+          # Prefer a PAT when present; otherwise fall back to the built-in
+          # token, which is enough now that `contents: write` is granted.
+          github_token: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
           github_repository: ${{ github.repository }}
           readme_path: README.md
+          stats_range: last_7_days
+          timezone: Africa/Johannesburg
+          languages_limit: all
+          languages_source: both
+          show_code_time: "true"
+          show_ai_time: "true"
+          show_languages: "true"
+          show_editors: "true"
+          show_os: "true"
+          show_projects: "true"
