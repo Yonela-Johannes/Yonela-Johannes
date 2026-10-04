@@ -24,23 +24,19 @@ jobs:
         uses: actions/checkout@v7
 
       - name: Generate WakaTime Stats
-        # Tip: pin to a commit SHA for a stricter supply-chain guarantee
-        # (e.g. yonela-johannes/waka-readme-stats@864bcdf82ced079a3cec08a68523a91df66a4f79).
         uses: yonela-johannes/waka-readme-stats@main
         with:
           wakatime_api_key: ${{ secrets.WAKATIME_API_KEY }}
-          # Prefer a PAT when present; otherwise fall back to the built-in
-          # token, which is enough now that `contents: write` is granted.
           github_token: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
           github_repository: ${{ github.repository }}
           readme_path: README.md
           stats_range: last_7_days
-          timezone: Africa/Johannesburg
-          languages_limit: all
+          timezone: Africa/Johannesburg 
+          languages_limit: 6
           languages_source: both
-          show_code_time: "true"
-          show_ai_time: "true"
-          show_languages: "true"
-          show_editors: "true"
-          show_os: "true"
-          show_projects: "true"
+          show_code_time: "false"
+          show_ai_time: "false"
+          show_languages: "false"
+          show_editors: "false"
+          show_os: "false"
+          show_projects: "false"
