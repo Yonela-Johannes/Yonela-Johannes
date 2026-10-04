@@ -8,8 +8,6 @@ on:
 permissions:
   contents: write
 
-# Never run two updates at once: the action commits to the README, so
-# overlapping runs would race on the same file.
 concurrency:
   group: waka-readme
   cancel-in-progress: false
@@ -30,11 +28,16 @@ jobs:
           github_token: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
           github_repository: ${{ github.repository }}
           readme_path: README.md
-          stats_range: last_7_days
-          timezone: Africa/Johannesburg 
+
+          # Use a longer period for more meaningful statistics
+          stats_range: last_30_days
+          timezone: Africa/Johannesburg
+
+          # Only show the languages configured in the action whitelist
           languages_limit: all
           languages_source: both
-          show_code_time: "false"
+
+          show_code_time: "true"
           show_ai_time: "false"
           show_languages: "true"
           show_editors: "false"
