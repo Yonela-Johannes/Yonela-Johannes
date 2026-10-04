@@ -36,7 +36,7 @@ jobs:
           languages_source: both
           show_code_time: "false"
           show_ai_time: "false"
-          show_languages: "false"
+          show_languages: "true"
           show_editors: "false"
           show_os: "false"
           show_projects: "false"
