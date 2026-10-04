@@ -37,9 +37,37 @@ designed to encourage more intentional technology use.
 
 <!--START_SECTION:waka-->
 
-![Code Time](https://img.shields.io/badge/Code%20Time-6%2C452%20hrs%207%20mins-blue?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-6%2C459%20hrs%2050%20mins-blue?style=flat)
 
-### 💻 Languages
+### 💻 Languages (Time Coded)
+
+```text
+TypeScript             53 hrs 56 mins     ████████████████▏░░░░░░░ 66.94%
+JavaScript             7 hrs 32 mins      ██▎░░░░░░░░░░░░░░░░░░░░░ 9.35%
+Markdown               5 hrs 54 mins      █▊░░░░░░░░░░░░░░░░░░░░░░ 7.34%
+JSON                   4 hrs              █▎░░░░░░░░░░░░░░░░░░░░░░ 4.98%
+Other                  2 hrs 50 mins      ▉░░░░░░░░░░░░░░░░░░░░░░░ 3.52%
+Text                   1 hr 13 mins       ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.53%
+YAML                   1 hr 13 mins       ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.52%
+CSS                    1 hr 10 mins       ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.45%
+Vue                    31 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.66%
+shell script           31 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.66%
+TSConfig               18 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.38%
+Bash                   16 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.34%
+jsonc                  14 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.29%
+Image (jpeg)           10 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.22%
+Prisma                 10 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.21%
+Git Config             8 mins             ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.18%
+Python                 8 mins             ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.18%
+SQL                    5 mins             ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.12%
+HTML                   3 mins             ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.08%
+XML                    2 mins             ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.04%
+Image (png)            0 secs             ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.01%
+Objective-C            0 secs             ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.01%
+Image (svg)            0 secs             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
+```
+
+### 💻 Languages (Code on GitHub)
 
 ```text
 JavaScript             2.0 MB (56 repos)   ███████████▍░░░░░░░░░░░░ 47.14%
