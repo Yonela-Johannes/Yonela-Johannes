@@ -36,6 +36,29 @@ designed to encourage more intentional technology use.
 ### Coding Activity
 
 <!--START_SECTION:waka-->
+
+### 💻 Languages (Time Coded)
+
+```text
+TypeScript             21 hrs 55 mins     ███████████████▏░░░░░░░░ 63.10%
+Markdown               4 hrs              ██▊░░░░░░░░░░░░░░░░░░░░░ 11.52%
+JavaScript             2 hrs 16 mins      █▋░░░░░░░░░░░░░░░░░░░░░░ 6.53%
+Other                  2 hrs 14 mins      █▌░░░░░░░░░░░░░░░░░░░░░░ 6.44%
+JSON                   1 hr 34 mins       █▏░░░░░░░░░░░░░░░░░░░░░░ 4.53%
+Text                   49 mins            ▋░░░░░░░░░░░░░░░░░░░░░░░ 2.36%
+```
+
+### 💻 Languages (Code on GitHub)
+
+```text
+JavaScript             2.0 MB (56 repos)   ███████████▍░░░░░░░░░░░░ 47.14%
+TypeScript             1.1 MB (14 repos)   ██████▎░░░░░░░░░░░░░░░░░ 26.16%
+HTML                   397.3 KB (41 repos) ██▎░░░░░░░░░░░░░░░░░░░░░ 9.12%
+CSS                    290.9 KB (42 repos) █▋░░░░░░░░░░░░░░░░░░░░░░ 6.68%
+Ruby                   236.8 KB (8 repos)  █▎░░░░░░░░░░░░░░░░░░░░░░ 5.44%
+Handlebars             86.9 KB (8 repos)   ▌░░░░░░░░░░░░░░░░░░░░░░░ 1.99%
+```
+
 <!--END_SECTION:waka-->
 
 <sub>Automatically generated from my WakaTime activity.</sub>
