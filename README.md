@@ -37,25 +37,46 @@ designed to encourage more intentional technology use.
 
 <!--START_SECTION:waka-->
 
-### 💻 Languages - Time Coded
+### 💻 Languages (Time Coded)
 
 ```text
 TypeScript             21 hrs 55 mins     ███████████████▏░░░░░░░░ 63.10%
+Markdown               4 hrs              ██▊░░░░░░░░░░░░░░░░░░░░░ 11.52%
 JavaScript             2 hrs 16 mins      █▋░░░░░░░░░░░░░░░░░░░░░░ 6.53%
+Other                  2 hrs 14 mins      █▌░░░░░░░░░░░░░░░░░░░░░░ 6.44%
+JSON                   1 hr 34 mins       █▏░░░░░░░░░░░░░░░░░░░░░░ 4.53%
+Text                   49 mins            ▋░░░░░░░░░░░░░░░░░░░░░░░ 2.36%
+CSS                    34 mins            ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.67%
+YAML                   24 mins            ▎░░░░░░░░░░░░░░░░░░░░░░░ 1.16%
+TSConfig               17 mins            ▎░░░░░░░░░░░░░░░░░░░░░░░ 0.83%
+Image (jpeg)           10 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.50%
+Git Config             7 mins             ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.38%
 Python                 6 mins             ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.31%
 Prisma                 5 mins             ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.26%
+Bash                   4 mins             ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.23%
 SQL                    2 mins             ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.12%
+HTML                   0 secs             ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.03%
+Image (png)            0 secs             ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.02%
+Image (svg)            0 secs             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
 ```
 
-### 💻 Languages - on GitHub
+### 💻 Languages (Code on GitHub)
 
 ```text
-JavaScript             56 repos           ███████████▍░░░░░░░░░░░░ 47.14%
-TypeScript             14 repos           ██████▎░░░░░░░░░░░░░░░░░ 26.16%
-Python                 5 repos            ▎░░░░░░░░░░░░░░░░░░░░░░░ 1.29%
-C#                     2 repos            ▎░░░░░░░░░░░░░░░░░░░░░░░ 0.94%
-Java                   1 repo             ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.40%
-Ruby                   8 repos            █▎░░░░░░░░░░░░░░░░░░░░░░ 5.44%
+JavaScript             2.0 MB (56 repos)   ███████████▍░░░░░░░░░░░░ 47.14%
+TypeScript             1.1 MB (14 repos)   ██████▎░░░░░░░░░░░░░░░░░ 26.16%
+HTML                   397.3 KB (41 repos) ██▎░░░░░░░░░░░░░░░░░░░░░ 9.12%
+CSS                    290.9 KB (42 repos) █▋░░░░░░░░░░░░░░░░░░░░░░ 6.68%
+Ruby                   236.8 KB (8 repos)  █▎░░░░░░░░░░░░░░░░░░░░░░ 5.44%
+Handlebars             86.9 KB (8 repos)   ▌░░░░░░░░░░░░░░░░░░░░░░░ 1.99%
+Python                 56.4 KB (5 repos)   ▎░░░░░░░░░░░░░░░░░░░░░░░ 1.29%
+C#                     41.2 KB (2 repos)   ▎░░░░░░░░░░░░░░░░░░░░░░░ 0.94%
+SCSS                   27.5 KB (2 repos)   ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.63%
+Java                   17.5 KB (1 repo)    ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.40%
+Batchfile              4.5 KB (2 repos)    ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.10%
+Pug                    2.0 KB (1 repo)     ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.05%
+Shell                  1.9 KB (5 repos)    ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.04%
+Procfile               52 B (4 repos)      ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
 ```
 
 <!--END_SECTION:waka-->
