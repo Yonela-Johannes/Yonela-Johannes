@@ -1,0 +1,12 @@
+version: 2
+updates:
+  # Keep the GitHub Actions used by the WakaTime workflow up to date so the
+  # action versions never drift years behind again.
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+    commit-message:
+      prefix: "chore(ci)"
+    open-pull-requests-limit: 5
