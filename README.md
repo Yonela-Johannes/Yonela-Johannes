@@ -87,6 +87,16 @@ Procfile               52 B (4 repos)      ▏░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yonela-johannes&theme=merko&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak Stats" />
+  </a>
+  <a>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yonela-johannes&theme=merko&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8&hide_title=true" />
+  </a>
+</div>
+
+
 <sub>Automatically generated from my WakaTime activity.</sub>
 ---
 
