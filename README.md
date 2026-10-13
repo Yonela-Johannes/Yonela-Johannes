@@ -37,30 +37,30 @@ designed to encourage more intentional technology use.
 
 <!--START_SECTION:waka-->
 
-![Code Time](https://img.shields.io/badge/Code%20Time-6%2C513%20hrs-blue?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-6%2C520%20hrs%2024%20mins-blue?style=flat)
 
 ### 💻 Languages (Time Coded)
 
 ```text
-TypeScript             100 hrs 32 mins    █████████████████▍░░░░░░ 72.31%
-JSON                   9 hrs 11 mins      █▋░░░░░░░░░░░░░░░░░░░░░░ 6.61%
-Markdown               8 hrs 15 mins      █▍░░░░░░░░░░░░░░░░░░░░░░ 5.94%
-JavaScript             7 hrs 59 mins      █▍░░░░░░░░░░░░░░░░░░░░░░ 5.74%
-Other                  3 hrs 38 mins      ▋░░░░░░░░░░░░░░░░░░░░░░░ 2.62%
-CSS                    1 hr 54 mins       ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.37%
-Text                   1 hr 25 mins       ▎░░░░░░░░░░░░░░░░░░░░░░░ 1.03%
-YAML                   1 hr 20 mins       ▎░░░░░░░░░░░░░░░░░░░░░░░ 0.96%
-Bash                   1 hr 5 mins        ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.78%
+TypeScript             99 hrs 17 mins     █████████████████▎░░░░░░ 71.91%
+JSON                   9 hrs 19 mins      █▋░░░░░░░░░░░░░░░░░░░░░░ 6.76%
+Markdown               8 hrs 21 mins      █▌░░░░░░░░░░░░░░░░░░░░░░ 6.06%
+JavaScript             8 hrs 2 mins       █▍░░░░░░░░░░░░░░░░░░░░░░ 5.83%
+Other                  3 hrs 36 mins      ▋░░░░░░░░░░░░░░░░░░░░░░░ 2.62%
+CSS                    1 hr 55 mins       ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.40%
+Text                   1 hr 25 mins       ▎░░░░░░░░░░░░░░░░░░░░░░░ 1.04%
+YAML                   1 hr 20 mins       ▎░░░░░░░░░░░░░░░░░░░░░░░ 0.97%
+Bash                   1 hr 5 mins        ▎░░░░░░░░░░░░░░░░░░░░░░░ 0.79%
 Python                 58 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.70%
 TSConfig               32 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.39%
-shell script           31 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.38%
+shell script           31 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.39%
 jsonc                  26 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.32%
 Image (png)            23 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.29%
 Image (jpeg)           11 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.14%
 Git Config             10 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.13%
 Prisma                 10 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.12%
-SQL                    5 mins             ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.07%
 HTML                   5 mins             ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.07%
+SQL                    3 mins             ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.04%
 XML                    2 mins             ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.02%
 Image (svg)            0 secs             ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.01%
 Objective-C            0 secs             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
