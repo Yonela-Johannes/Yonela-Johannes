@@ -31,7 +31,7 @@ I build practical digital products across web, mobile, backend systems, and deve
 
 * **[Maya](https://mango-app.vercel.app/)** — Community and real-time communication across web and mobile.
 designed to encourage more intentional technology use.
-* **[Seene](https://thatg33k-t33.github.io/Seene/)** — Cinematic scene building, camera controls, and interactive presentations.
+* **[Seene](https://yonela-johannes.github.io/Seene/)** — Cinematic scene building, camera controls, and interactive presentations.
 
 ### Coding Activity
 
