@@ -37,7 +37,7 @@ designed to encourage more intentional technology use.
 
 <!--START_SECTION:waka-->
 
-![Code Time](https://img.shields.io/badge/Code%20Time-6%2C583%20hrs%204%20mins-blue?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-6%2C583%20hrs%2044%20mins-blue?style=flat)
 
 ### 💻 Languages (Time Coded)
 
@@ -69,13 +69,13 @@ Objective-C            0 secs             ░░░░░░░░░░░░�
 ### 💻 Languages (Code on GitHub)
 
 ```text
-TypeScript             2.4 MB (15 repos)   ██████████▏░░░░░░░░░░░░░ 41.93%
-JavaScript             2.1 MB (57 repos)   █████████░░░░░░░░░░░░░░░ 37.27%
-HTML                   400.9 KB (42 repos) █▋░░░░░░░░░░░░░░░░░░░░░░ 6.84%
-CSS                    320.8 KB (43 repos) █▍░░░░░░░░░░░░░░░░░░░░░░ 5.47%
-Ruby                   236.8 KB (8 repos)  █░░░░░░░░░░░░░░░░░░░░░░░ 4.04%
-Handlebars             86.9 KB (8 repos)   ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.48%
-Python                 79.8 KB (6 repos)   ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.36%
+TypeScript             2.4 MB (15 repos)   ██████████▏░░░░░░░░░░░░░ 42.35%
+JavaScript             2.1 MB (57 repos)   ████████▉░░░░░░░░░░░░░░░ 37.00%
+HTML                   400.9 KB (42 repos) █▋░░░░░░░░░░░░░░░░░░░░░░ 6.79%
+CSS                    320.8 KB (43 repos) █▎░░░░░░░░░░░░░░░░░░░░░░ 5.43%
+Ruby                   236.8 KB (8 repos)  █░░░░░░░░░░░░░░░░░░░░░░░ 4.01%
+Handlebars             86.9 KB (8 repos)   ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.47%
+Python                 79.8 KB (6 repos)   ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.35%
 C#                     41.2 KB (2 repos)   ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.70%
 SCSS                   27.5 KB (2 repos)   ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.47%
 Java                   17.5 KB (1 repo)    ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.30%
