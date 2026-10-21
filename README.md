@@ -37,7 +37,7 @@ designed to encourage more intentional technology use.
 
 <!--START_SECTION:waka-->
 
-![Code Time](https://img.shields.io/badge/Code%20Time-6%2C581%20hrs-blue?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-6%2C570%20hrs%2025%20mins-blue?style=flat)
 
 ### 💻 Languages (Time Coded)
 
@@ -69,8 +69,8 @@ Objective-C            0 secs             ░░░░░░░░░░░░�
 ### 💻 Languages (Code on GitHub)
 
 ```text
-TypeScript             2.4 MB (15 repos)   ██████████░░░░░░░░░░░░░░ 41.82%
-JavaScript             2.1 MB (57 repos)   █████████░░░░░░░░░░░░░░░ 37.34%
+TypeScript             2.4 MB (15 repos)   ██████████░░░░░░░░░░░░░░ 41.84%
+JavaScript             2.1 MB (57 repos)   █████████░░░░░░░░░░░░░░░ 37.33%
 HTML                   400.9 KB (42 repos) █▋░░░░░░░░░░░░░░░░░░░░░░ 6.85%
 CSS                    320.8 KB (43 repos) █▍░░░░░░░░░░░░░░░░░░░░░░ 5.48%
 Ruby                   236.8 KB (8 repos)  █░░░░░░░░░░░░░░░░░░░░░░░ 4.05%
