@@ -37,28 +37,28 @@ designed to encourage more intentional technology use.
 
 <!--START_SECTION:waka-->
 
-![Code Time](https://img.shields.io/badge/Code%20Time-6%2C584%20hrs%202%20mins-blue?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-6%2C586%20hrs%2052%20mins-blue?style=flat)
 
 ### 💻 Languages (Time Coded)
 
 ```text
-TypeScript             136 hrs 57 mins    █████████████████▊░░░░░░ 73.89%
-JSON                   11 hrs 1 min       █▍░░░░░░░░░░░░░░░░░░░░░░ 5.95%
-Markdown               10 hrs 33 mins     █▍░░░░░░░░░░░░░░░░░░░░░░ 5.70%
-JavaScript             8 hrs 35 mins      █▏░░░░░░░░░░░░░░░░░░░░░░ 4.64%
-Other                  6 hrs 34 mins      ▉░░░░░░░░░░░░░░░░░░░░░░░ 3.55%
-CSS                    3 hrs 4 mins       ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.66%
+TypeScript             139 hrs 22 mins    █████████████████▉░░░░░░ 74.44%
+JSON                   10 hrs 58 mins     █▍░░░░░░░░░░░░░░░░░░░░░░ 5.86%
+Markdown               10 hrs 49 mins     █▍░░░░░░░░░░░░░░░░░░░░░░ 5.78%
+JavaScript             7 hrs 50 mins      █░░░░░░░░░░░░░░░░░░░░░░░ 4.19%
+Other                  6 hrs 35 mins      ▉░░░░░░░░░░░░░░░░░░░░░░░ 3.52%
+CSS                    3 hrs 5 mins       ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.65%
 Text                   1 hr 38 mins       ▎░░░░░░░░░░░░░░░░░░░░░░░ 0.88%
-YAML                   1 hr 27 mins       ▎░░░░░░░░░░░░░░░░░░░░░░░ 0.79%
+YAML                   1 hr 27 mins       ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.78%
 Bash                   1 hr 20 mins       ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.72%
 Python                 1 hr 11 mins       ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.64%
-jsonc                  41 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.38%
+jsonc                  41 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.37%
 TSConfig               39 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.35%
-Image (png)            23 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.22%
-Prisma                 20 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.19%
-HTML                   16 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.15%
+Image (png)            23 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.21%
+Prisma                 20 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.18%
+HTML                   15 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.14%
 Image (jpeg)           11 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.10%
-Git Config             10 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.10%
+Git Config             10 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.09%
 SQL                    4 mins             ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.04%
 XML                    3 mins             ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.03%
 Liquid                 1 min              ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.02%
@@ -69,16 +69,16 @@ Objective-C            0 secs             ░░░░░░░░░░░░�
 ### 💻 Languages (Code on GitHub)
 
 ```text
-TypeScript             2.4 MB (15 repos)   ██████████▏░░░░░░░░░░░░░ 42.35%
-JavaScript             2.1 MB (57 repos)   ████████▉░░░░░░░░░░░░░░░ 37.00%
-HTML                   400.9 KB (42 repos) █▋░░░░░░░░░░░░░░░░░░░░░░ 6.79%
-CSS                    320.8 KB (43 repos) █▎░░░░░░░░░░░░░░░░░░░░░░ 5.43%
-Ruby                   236.8 KB (8 repos)  █░░░░░░░░░░░░░░░░░░░░░░░ 4.01%
-Handlebars             86.9 KB (8 repos)   ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.47%
-Python                 79.8 KB (6 repos)   ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.35%
-C#                     41.2 KB (2 repos)   ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.70%
-SCSS                   27.5 KB (2 repos)   ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.47%
-Java                   17.5 KB (1 repo)    ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.30%
+TypeScript             2.5 MB (15 repos)   ██████████▍░░░░░░░░░░░░░ 43.37%
+JavaScript             2.1 MB (57 repos)   ████████▊░░░░░░░░░░░░░░░ 36.34%
+HTML                   400.9 KB (42 repos) █▋░░░░░░░░░░░░░░░░░░░░░░ 6.67%
+CSS                    320.8 KB (43 repos) █▎░░░░░░░░░░░░░░░░░░░░░░ 5.33%
+Ruby                   236.8 KB (8 repos)  █░░░░░░░░░░░░░░░░░░░░░░░ 3.94%
+Handlebars             86.9 KB (8 repos)   ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.44%
+Python                 79.8 KB (6 repos)   ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.33%
+C#                     41.2 KB (2 repos)   ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.68%
+SCSS                   27.5 KB (2 repos)   ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.46%
+Java                   17.5 KB (1 repo)    ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.29%
 Batchfile              4.5 KB (2 repos)    ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.08%
 Pug                    2.0 KB (1 repo)     ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.03%
 Shell                  1.9 KB (5 repos)    ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.03%
