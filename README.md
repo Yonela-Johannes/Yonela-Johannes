@@ -37,27 +37,27 @@ designed to encourage more intentional technology use.
 
 <!--START_SECTION:waka-->
 
-![Code Time](https://img.shields.io/badge/Code%20Time-6%2C595%20hrs%201%20min-blue?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-6%2C603%20hrs%2040%20mins-blue?style=flat)
 
 ### 💻 Languages (Time Coded)
 
 ```text
-TypeScript             142 hrs 34 mins    █████████████████▉░░░░░░ 74.70%
-Markdown               11 hrs             █▍░░░░░░░░░░░░░░░░░░░░░░ 5.77%
-JSON                   10 hrs 36 mins     █▍░░░░░░░░░░░░░░░░░░░░░░ 5.56%
-JavaScript             8 hrs 8 mins       █░░░░░░░░░░░░░░░░░░░░░░░ 4.26%
-Other                  6 hrs 30 mins      ▉░░░░░░░░░░░░░░░░░░░░░░░ 3.41%
+TypeScript             142 hrs 41 mins    █████████████████▉░░░░░░ 74.66%
+Markdown               10 hrs 43 mins     █▍░░░░░░░░░░░░░░░░░░░░░░ 5.61%
+JSON                   10 hrs 26 mins     █▎░░░░░░░░░░░░░░░░░░░░░░ 5.46%
+JavaScript             8 hrs 44 mins      █▏░░░░░░░░░░░░░░░░░░░░░░ 4.57%
+Other                  6 hrs 44 mins      ▉░░░░░░░░░░░░░░░░░░░░░░░ 3.53%
 CSS                    2 hrs 46 mins      ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.46%
 Bash                   2 hrs 12 mins      ▎░░░░░░░░░░░░░░░░░░░░░░░ 1.16%
-Text                   1 hr 29 mins       ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.78%
 YAML                   1 hr 27 mins       ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.77%
+Text                   1 hr 13 mins       ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.64%
 Python                 1 hr 11 mins       ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.63%
 TSConfig               38 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.34%
-jsonc                  28 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.25%
+jsonc                  27 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.24%
 Image (png)            23 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.21%
-SQL                    20 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.18%
+SQL                    22 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.19%
 Git Config             17 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.15%
-Prisma                 17 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.15%
+Prisma                 16 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.14%
 HTML                   13 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.12%
 Image (jpeg)           11 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.10%
 Liquid                 1 min              ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.02%
