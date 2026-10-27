@@ -37,7 +37,7 @@ designed to encourage more intentional technology use.
 
 <!--START_SECTION:waka-->
 
-![Code Time](https://img.shields.io/badge/Code%20Time-6%2C603%20hrs%2040%20mins-blue?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-6%2C604%20hrs%2014%20mins-blue?style=flat)
 
 ### 💻 Languages (Time Coded)
 
