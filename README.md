@@ -37,9 +37,35 @@ designed to encourage more intentional technology use.
 
 <!--START_SECTION:waka-->
 
-![Code Time](https://img.shields.io/badge/Code%20Time-6%2C606%20hrs-blue?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-6%2C604%20hrs%2034%20mins-blue?style=flat)
 
-### 💻 Languages
+### 💻 Languages (Time Coded)
+
+```text
+TypeScript             141 hrs 49 mins    ██████████████████▏░░░░░ 75.28%
+Markdown               10 hrs 2 mins      █▎░░░░░░░░░░░░░░░░░░░░░░ 5.33%
+JSON                   9 hrs 54 mins      █▎░░░░░░░░░░░░░░░░░░░░░░ 5.26%
+JavaScript             8 hrs 40 mins      █▏░░░░░░░░░░░░░░░░░░░░░░ 4.60%
+Other                  5 hrs 58 mins      ▊░░░░░░░░░░░░░░░░░░░░░░░ 3.17%
+CSS                    2 hrs 53 mins      ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.53%
+Bash                   2 hrs 23 mins      ▎░░░░░░░░░░░░░░░░░░░░░░░ 1.27%
+YAML                   1 hr 27 mins       ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.77%
+Python                 1 hr 10 mins       ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.62%
+Text                   1 hr 7 mins        ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.59%
+TSConfig               37 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.33%
+jsonc                  27 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.24%
+SQL                    26 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.23%
+Image (png)            23 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.21%
+Git Config             17 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.15%
+HTML                   16 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.14%
+Prisma                 13 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.12%
+Image (jpeg)           11 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.10%
+Liquid                 1 min              ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.02%
+XML                    1 min              ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.01%
+Image (svg)            0 secs             ░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
+```
+
+### 💻 Languages (Code on GitHub)
 
 ```text
 TypeScript             2.5 MB (15 repos)   ██████████▍░░░░░░░░░░░░░ 43.37%
