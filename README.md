@@ -3,7 +3,10 @@
 **Full-Stack Engineer · Product Systems · Web & Mobile**
 
 I build practical digital products across web, mobile, backend systems, and developer tooling, from idea to production.
-
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=yonela-johannes&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/yonela-johannes?label=Followers&style=social" />
+</div>
 [Website](https://yonelajohannes.vercel.app/) · [Portfolio](https://yonela-johannes.vercel.app/) · [Thatg33k](https://github.com/thatg33k-t33) · [LinkedIn](https://www.linkedin.com/in/yonela-johannes/) · [GitHub](https://github.com/Yonela-Johannes)
 
 
