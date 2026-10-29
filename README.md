@@ -9,6 +9,8 @@ I build practical digital products across web, mobile, backend systems, and deve
   <img src="https://img.shields.io/github/followers/yonela-johannes?label=Followers&style=social" />
 </div>
 
+![Code Time](https://img.shields.io/badge/Code%20Time-6%2C606%20hrs%2052%20mins-blue?style=flat)
+
 [Website](https://yonelajohannes.vercel.app/) · [Portfolio](https://yonela-johannes.vercel.app/) · [Thatg33k](https://github.com/thatg33k-t33) · [LinkedIn](https://www.linkedin.com/in/yonela-johannes/) · [GitHub](https://github.com/Yonela-Johannes)
 
 
@@ -38,11 +40,7 @@ I build practical digital products across web, mobile, backend systems, and deve
 designed to encourage more intentional technology use.
 * **[Seene](https://yonela-johannes.github.io/Seene/)** — Cinematic scene building, camera controls, and interactive presentations.
 
-### Coding Activity
-
 <!--START_SECTION:waka-->
-
-![Code Time](https://img.shields.io/badge/Code%20Time-6%2C606%20hrs%2052%20mins-blue?style=flat)
 
 ### 💻 Languages (Time Coded)
 
