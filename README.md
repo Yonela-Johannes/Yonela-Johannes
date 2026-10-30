@@ -42,41 +42,41 @@ designed to encourage more intentional technology use.
 
 <!--START_SECTION:waka-->
 
-![Code Time](https://img.shields.io/badge/Code%20Time-6%2C606%20hrs%2022%20mins-blue?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-6%2C610%20hrs%2019%20mins-blue?style=flat)
 
 ### 💻 Languages (Time Coded)
 
 ```text
-TypeScript             138 hrs 24 mins    ██████████████████▎░░░░░ 76.11%
-JSON                   9 hrs 35 mins      █▎░░░░░░░░░░░░░░░░░░░░░░ 5.27%
-Markdown               9 hrs 32 mins      █▎░░░░░░░░░░░░░░░░░░░░░░ 5.25%
-JavaScript             7 hrs 53 mins      █░░░░░░░░░░░░░░░░░░░░░░░ 4.34%
-Other                  5 hrs 8 mins       ▋░░░░░░░░░░░░░░░░░░░░░░░ 2.83%
-CSS                    2 hrs 49 mins      ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.55%
-Bash                   2 hrs 23 mins      ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.31%
-YAML                   1 hr 21 mins       ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.75%
-Python                 1 hr 10 mins       ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.64%
-Text                   41 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.38%
-TSConfig               37 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.35%
-jsonc                  27 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.25%
-SQL                    26 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.24%
-Image (png)            23 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.22%
-HTML                   16 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.15%
-Prisma                 13 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.12%
-Image (jpeg)           11 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.10%
-Git Config             10 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.09%
+TypeScript             133 hrs 29 mins    ██████████████████▊░░░░░ 78.00%
+JSON                   9 hrs 4 mins       █▎░░░░░░░░░░░░░░░░░░░░░░ 5.30%
+Markdown               7 hrs 36 mins      █▏░░░░░░░░░░░░░░░░░░░░░░ 4.44%
+JavaScript             6 hrs 48 mins      █░░░░░░░░░░░░░░░░░░░░░░░ 3.98%
+Other                  4 hrs              ▌░░░░░░░░░░░░░░░░░░░░░░░ 2.34%
+Bash                   2 hrs 22 mins      ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.38%
+CSS                    2 hrs 21 mins      ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.38%
+YAML                   1 hr 17 mins       ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.76%
+Python                 1 hr 5 mins        ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.63%
+Text                   34 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.33%
+jsonc                  27 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.27%
+TSConfig               26 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.26%
+SQL                    26 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.26%
+Image (png)            23 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.23%
+HTML                   18 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.18%
+Prisma                 10 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.10%
+Git Config             10 mins            ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.10%
 Liquid                 1 min              ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.02%
 XML                    1 min              ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.01%
+Image (jpeg)           0 secs             ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.01%
 Image (svg)            0 secs             ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.01%
 ```
 
 ### 💻 Languages (Code on GitHub)
 
 ```text
-TypeScript             2.7 MB (16 repos)   ██████████▋░░░░░░░░░░░░░ 44.38%
-JavaScript             2.1 MB (58 repos)   ████████▌░░░░░░░░░░░░░░░ 35.58%
-HTML                   405.1 KB (43 repos) █▋░░░░░░░░░░░░░░░░░░░░░░ 6.56%
-CSS                    325.5 KB (44 repos) █▎░░░░░░░░░░░░░░░░░░░░░░ 5.27%
+TypeScript             2.7 MB (16 repos)   ██████████▋░░░░░░░░░░░░░ 44.34%
+JavaScript             2.1 MB (58 repos)   ████████▌░░░░░░░░░░░░░░░ 35.54%
+HTML                   405.1 KB (43 repos) █▋░░░░░░░░░░░░░░░░░░░░░░ 6.55%
+CSS                    331.1 KB (44 repos) █▎░░░░░░░░░░░░░░░░░░░░░░ 5.36%
 Ruby                   236.8 KB (8 repos)  ▉░░░░░░░░░░░░░░░░░░░░░░░ 3.83%
 Handlebars             86.9 KB (8 repos)   ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.41%
 Python                 79.8 KB (6 repos)   ▎░░░░░░░░░░░░░░░░░░░░░░░ 1.29%
