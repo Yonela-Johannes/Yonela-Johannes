@@ -42,7 +42,7 @@ designed to encourage more intentional technology use.
 
 <!--START_SECTION:waka-->
 
-![Code Time](https://img.shields.io/badge/Code%20Time-6%2C610%20hrs%2019%20mins-blue?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-6%2C613%20hrs%2010%20mins-blue?style=flat)
 
 ### 💻 Languages (Time Coded)
 
@@ -73,17 +73,17 @@ Image (svg)            0 secs             ▏░░░░░░░░░░░�
 ### 💻 Languages (Code on GitHub)
 
 ```text
-TypeScript             2.7 MB (16 repos)   ██████████▋░░░░░░░░░░░░░ 44.34%
-JavaScript             2.1 MB (58 repos)   ████████▌░░░░░░░░░░░░░░░ 35.54%
-HTML                   405.1 KB (43 repos) █▋░░░░░░░░░░░░░░░░░░░░░░ 6.55%
-CSS                    331.1 KB (44 repos) █▎░░░░░░░░░░░░░░░░░░░░░░ 5.36%
-Ruby                   236.8 KB (8 repos)  ▉░░░░░░░░░░░░░░░░░░░░░░░ 3.83%
-Handlebars             86.9 KB (8 repos)   ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.41%
-Python                 79.8 KB (6 repos)   ▎░░░░░░░░░░░░░░░░░░░░░░░ 1.29%
-C#                     41.2 KB (2 repos)   ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.67%
-SCSS                   27.5 KB (2 repos)   ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.44%
-Java                   17.5 KB (1 repo)    ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.28%
-Shell                  11.1 KB (6 repos)   ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.18%
+TypeScript             2.9 MB (16 repos)   ███████████░░░░░░░░░░░░░ 45.93%
+JavaScript             2.1 MB (58 repos)   ████████▎░░░░░░░░░░░░░░░ 34.49%
+HTML                   405.1 KB (43 repos) █▌░░░░░░░░░░░░░░░░░░░░░░ 6.36%
+CSS                    335.2 KB (44 repos) █▎░░░░░░░░░░░░░░░░░░░░░░ 5.26%
+Ruby                   236.8 KB (8 repos)  ▉░░░░░░░░░░░░░░░░░░░░░░░ 3.72%
+Handlebars             86.9 KB (8 repos)   ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.36%
+Python                 79.8 KB (6 repos)   ▎░░░░░░░░░░░░░░░░░░░░░░░ 1.25%
+C#                     41.2 KB (2 repos)   ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.65%
+SCSS                   27.5 KB (2 repos)   ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.43%
+Java                   17.5 KB (1 repo)    ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.27%
+Shell                  11.1 KB (6 repos)   ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.17%
 Batchfile              4.5 KB (2 repos)    ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.07%
 Pug                    2.0 KB (1 repo)     ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.03%
 Procfile               52 B (4 repos)      ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
