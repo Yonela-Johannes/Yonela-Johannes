@@ -11,7 +11,7 @@ I build practical digital products across web, mobile, backend systems, and deve
 
 ![Code Time](https://img.shields.io/badge/Code%20Time-6%2C606%20hrs%2052%20mins-blue?style=flat)
 
-[Website](https://yonelajohannes.vercel.app/) · [Portfolio](https://yonela-johannes.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/yonela-johannes/) · [GitHub](https://github.com/Yonela-Johannes)
+[Portfolio/Blog](https://yonelajohannes.vercel.app/) · [Blog/Website](https://yonela-johannes.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/yonela-johannes/) · [GitHub](https://github.com/Yonela-Johannes)
 
 
 📍 Cape Town, South Africa 🇿🇦
