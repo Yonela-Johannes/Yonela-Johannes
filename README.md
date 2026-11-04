@@ -7,6 +7,7 @@ I build practical digital products across web, mobile, backend systems, and deve
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=yonela-johannes&label=Profile%20views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/yonela-johannes?label=Followers&style=social" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=flat" alt="open to work" />
 </div>
 
 ![Code Time](https://img.shields.io/badge/Code%20Time-6%2C606%20hrs%2052%20mins-blue?style=flat)
@@ -63,17 +64,21 @@ Procfile               52 B (4 repos)      ▏░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+  <!--INSIGHTS CARD -->
+### 💻 Github stats
+
 <div style="display: flex; align-items: center; gap: 10px;">
-  <a>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yonela-johannes&theme=merko&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak Stats" />
-  </a>
-  <a>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yonela-johannes&theme=merko&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8&hide_title=true" />
-  </a>
+  <img src="https://yourinsights.vercel.app/api/insight?username=Yonela-Johannes&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=&summary=true&profile=true&hide_langs=Ruby,Handlebars,HTML" alt="Refresh the browser !" />
 </div>
 
 
 <sub>Automatically generated from my WakaTime activity.</sub>
 ---
 
-*5+ years building and shipping software across products, platforms, and industries.*
+  
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=20&pause=1500&color=36C219&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;See+you+in+the+next+commit." />
+  
+  <sub><b>If you find my work helpful, dropping a ⭐ on my repos is always appreciated!</b></sub>
+</div>
