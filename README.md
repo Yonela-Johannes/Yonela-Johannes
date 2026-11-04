@@ -46,12 +46,12 @@ designed to encourage more intentional technology use.
 ### 💻 Languages
 
 ```text
-TypeScript             3.1 MB (17 repos)   ███████████▏░░░░░░░░░░░░ 46.38%
-JavaScript             2.2 MB (60 repos)   ███████▉░░░░░░░░░░░░░░░░ 32.99%
-CSS                    441.3 KB (46 repos) █▋░░░░░░░░░░░░░░░░░░░░░░ 6.52%
+TypeScript             3.1 MB (17 repos)   ███████████▏░░░░░░░░░░░░ 46.36%
+JavaScript             2.2 MB (60 repos)   ███████▉░░░░░░░░░░░░░░░░ 32.97%
+CSS                    441.3 KB (46 repos) █▋░░░░░░░░░░░░░░░░░░░░░░ 6.51%
 HTML                   416.7 KB (44 repos) █▌░░░░░░░░░░░░░░░░░░░░░░ 6.15%
-Ruby                   236.8 KB (8 repos)  ▉░░░░░░░░░░░░░░░░░░░░░░░ 3.50%
-Python                 111.1 KB (8 repos)  ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.64%
+Ruby                   236.8 KB (8 repos)  ▉░░░░░░░░░░░░░░░░░░░░░░░ 3.49%
+Python                 115.1 KB (8 repos)  ▍░░░░░░░░░░░░░░░░░░░░░░░ 1.70%
 Handlebars             86.9 KB (8 repos)   ▎░░░░░░░░░░░░░░░░░░░░░░░ 1.28%
 C#                     41.2 KB (2 repos)   ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.61%
 SCSS                   27.5 KB (2 repos)   ▏░░░░░░░░░░░░░░░░░░░░░░░ 0.41%
